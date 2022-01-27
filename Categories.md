@@ -1,1 +1,2 @@
+## Use one of the following strings when submitting an app to the ecosystem repository. 
 "Messaging", Wallets, Bots, "Dev Tools", "On/Off Ramps", "Point of Sale", "Merchant Services", "Art", "Events", "Community", "Trading"
