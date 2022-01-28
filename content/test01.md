@@ -1,6 +1,6 @@
 ---
 title: "Test 01"
-icon: "https://mobilecoin.com/images/user-friendly.svg"
+icon: "https://mobilecoin.com/images/crypto.png"
 description: "A fairly typical description."
 category: "Messaging, Bots"
 appStore: "mobilecoin.com"
