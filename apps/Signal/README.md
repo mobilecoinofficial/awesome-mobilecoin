@@ -1,6 +1,6 @@
 ---
 title: "Signal Messenger"
-icon: "https://mobilecoin.com/images/user-friendly.svg"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/apps/Signal/signal.png"
 description: "Simple, powerful, and secure messenger."
 category: "Messaging"
 appStore: "https://apps.apple.com/us/app/signal-private-messenger/id874139669"
