@@ -1,6 +1,6 @@
 ---
 title: "Mixin Messenger"
-icon: "/mixin.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/apps/mixin.png"
 description: "A free, lightning fast and decentralized network for transferring digital assets."
 category: "Messaging, Bots, Exchanges"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
