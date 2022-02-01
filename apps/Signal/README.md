@@ -1,12 +1,12 @@
 ---
 title: "Signal Messenger"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/apps/Signal/signal.png"
 description: "Simple, powerful, and secure messenger."
 category: "Messaging"
-appStore: "https://apps.apple.com/us/app/signal-private-messenger/id874139669"
-playStore: "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
 developer: "Signal"
 developerSite: "https://mixin.one/messenger"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/apps/Signal/signal.png"
+appStore: "https://apps.apple.com/us/app/signal-private-messenger/id874139669"
+playStore: "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
 ---
 # Why use Signal?
 Explore below to see why Signal is a simple, powerful, and secure messenger
