@@ -8,6 +8,7 @@ playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
 developer: "Mixin"
 developerSite: "https://mixin.one/messenger"
 ---
+
 ## An open source cryptocurrency wallet, which supports almost all popular cryptocurrencies.
 
 ## Features
