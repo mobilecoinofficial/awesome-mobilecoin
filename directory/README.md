@@ -1,8 +1,6 @@
-# How to Submit your app
+# How to add your app to the directory
 
-Submit a description of your app, integration, project, or ideas in the apps directory. 
-
-To add your project to the site, create a new subfolder in the awesome-mobilecoin/apps directory that contains a README.md that contains the following structure. You can also upload the app icon to this directory.
+Anyone can submit a description of an app, integration, project, or partnership to the directory. To add a project to the site, create a new subfolder in the awesome-mobilecoin/directory folder with a README.md that contains the following structure. You can also upload the app icon to this directory.
 
 ```
 ---
