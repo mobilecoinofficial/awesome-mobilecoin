@@ -1,4 +1,4 @@
-# How to add your app to the directory
+# How to add your app to the awesome directory
 
 Anyone can submit a description of an app, integration, project, or partnership to the directory. To add a project to the site, create a new subfolder in the awesome-mobilecoin/directory folder with a README.md that contains the following structure. You can also upload the app icon to this directory.
 
