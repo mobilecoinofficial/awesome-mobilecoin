@@ -1,7 +1,7 @@
 ---
 title: "Mixin Messenger"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/Mixin/mixin.png"
-description: "A free, lightning fast and decentralized network for transferring digital assets."
+description: "A free, lightning-fast, and decentralized network for transferring digital assets."
 category: "Messaging, Bots, Exchanges"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
 playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
