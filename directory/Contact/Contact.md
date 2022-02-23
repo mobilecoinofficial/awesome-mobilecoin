@@ -1,5 +1,5 @@
 ---
-title: "Email Bot"
+title: "Contact Bot"
 icon: ""
 description: "Purchase phone numbers for SMS"
 category: "Bots"
