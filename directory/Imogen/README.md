@@ -1,6 +1,6 @@
 ---
 title: "Imogen"
-icon: ""
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/801f22ec2b7dd5e20ebc7eb588e872ea84926173/directory/Imogen/imogen.png"
 description: "Generative art on the fly"
 category: "Bots, Art"
 docs: "https://github.com/mobilecoinofficial/forest/blob/main/imogen/README.md"
