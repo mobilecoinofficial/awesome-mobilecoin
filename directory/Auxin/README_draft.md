@@ -1,9 +1,9 @@
 ---
 title: "Auxin"
 icon: ""
-description: "Generative art on the fly"
-category: "Bots, Art"
-signalBot: "http://imogen.chat"
+description: "Signal CLI Wrapper"
+category: "Bots, SDK"
+signalBot: ""
 developer: "Forest"
 developerSite: "https://github.com/mobilecoinofficial/auxin"
 github: "https://github.com/mobilecoinofficial/auxin"
