@@ -3,11 +3,10 @@ title: "Imogen"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/801f22ec2b7dd5e20ebc7eb588e872ea84926173/directory/Imogen/imogen.png"
 description: "Generative art on the fly"
 category: "Bots, Art"
-docs: "https://github.com/mobilecoinofficial/forest/blob/main/imogen/README.md"
 signalBot: "https://signal.me/#p/+14159495511"
 developer: "Forest"
 developerSite: "https://github.com/mobilecoinofficial/forest/"
-github: "https://github.com/mobilecoinofficial/forest/"
+github: "https://github.com/mobilecoinofficial/forest/blob/main/imogen/README.md"
 ---
 
 
