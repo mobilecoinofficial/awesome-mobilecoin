@@ -7,6 +7,8 @@ signalBot: "https://signal.me/#p/+12185009001"
 developer: "Forest"
 developerSite: "https://github.com/mobilecoinofficial/forest/"
 support: "https://signal.group/#CjQKILH5dkoz99TKxwG7T3TaVAuskMq4gybSplYDfTq-vxUrEhBhuy19A4DbvBqm7PfnBn3I"
+gitHub: "https://github.com/mobilecoinofficial/forest/"
+
 ---
 
 The MOBot Hotline is a platform for creating Signal Messenger mailing lists. This allows you to distribute information, and announcements to many different contacts without needing them to be in a group together. Currently the Hotline sees mostly internal use, but will be rolled out to general users in the future. 
