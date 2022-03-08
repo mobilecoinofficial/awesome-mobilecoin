@@ -1,5 +1,5 @@
 ---
-title: "Auxin"
+title: "Signal CLI"
 icon: ""
 description: "Signal CLI Wrapper"
 category: "Bots, SDK"
