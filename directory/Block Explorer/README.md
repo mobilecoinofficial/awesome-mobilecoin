@@ -1,6 +1,6 @@
 ---
-title: "4Swap"
-icon: "https://4swap.org/logo.png"
+title: "Block Explorer"
+icon: "logo.png"
 description: "Transaction search engine"
 category: "Tools"
 developer: "MobileCoin"
