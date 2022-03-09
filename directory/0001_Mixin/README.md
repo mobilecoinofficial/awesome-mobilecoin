@@ -1,6 +1,6 @@
 ---
 title: "Mixin Messenger"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/Mixin/mixin.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
 description: "Private chat & crypto wallet"
 category: "Messaging, Bots, Exchanges"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
