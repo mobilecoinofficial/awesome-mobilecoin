@@ -4,7 +4,7 @@ description: "Simple, powerful, and secure messenger."
 category: "Messaging"
 developer: "Signal"
 developerSite: "https://mixin.one/messenger"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/Signal/signal.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0000_Signal/signal.png"
 appStore: "https://apps.apple.com/us/app/signal-private-messenger/id874139669"
 playStore: "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
 ---
