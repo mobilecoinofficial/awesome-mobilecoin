@@ -1,6 +1,6 @@
 ---
 title: "Hotline"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/21854d30214759a9a026c17644447ff9a92d2235/directory/0012_Hotline/hotline.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/master/directory/0012_Hotline/hotline.png"
 description: "Subscription and announcements"
 category: "Bots"
 signalBot: "https://signal.me/#p/+12185009001"
