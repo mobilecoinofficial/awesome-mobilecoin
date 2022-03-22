@@ -13,6 +13,7 @@ gitHub: "https://github.com/MixinNetwork/ios-app"
 ## Mixin is a messenger with end-to-end encryption built on the Signal protocol.
 Mixin supports wallet and transfer functionality for Bitcoin, Ethereum, EOS, Bitcoin Cash, Ethereum Classic, Ripple, Zcash, Dogocoin, Horizen, Stellar, BitShares, NEM, Dash, Cosmos, Namecoin, Nervos, Handshake, Grin, Filecoin, Tezos, Bytom, MobileCoin, Solana, Polkadot, Litecoin and Sia.
 
+[Watch this video on YouTube on how to buy MobileCoin on Mixin.](https://www.youtube.com/watch?v=pE6d7Aa_kKM)
 ## Features
 * Login with mobile phone number, never lose your account
 * Secured by 6 digit TIP
