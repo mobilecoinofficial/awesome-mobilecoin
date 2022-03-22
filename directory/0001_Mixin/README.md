@@ -30,15 +30,7 @@ Tap on the search icon in the top right corner (the magnifying glass). Enter the
 ## Swap Bitcoin for MobileCoin
 Open the bot and tap the icon in the bottom right that looks like a little robot with antennae. This will open the exchange screen. Enter the amount of Bitcoin that you want to trade for MOB. The only tricky part here is that they do not tell you how much Bitcoin you have in your wallet, so you may need to toggle back to your wallet to see how much you have. Once you enter the Bitcoin amount, the corresponding MOB amount should auto-populate. Make sure that the receive category says MOB and tap EXCHANGE.
 
-How to buy MobileCoin in the United States
-10/28/2021
-
-
-
-copied to clipboard
-
-
-Updated February 22, 2022
+# How to buy MobileCoin on Mixin
 
 Designed to be used as digital cash on your phone, our payment system is easy to use with near-instantaneous transactions that are both private and secure. Did we mention that MobileCoin is the first carbon-negative cryptocurrency?
 
@@ -48,25 +40,13 @@ Please note that while we are using Bitcoin as an example coin to trade into Mob
 
 Please report any bugs or issues with these instructions to support@mobilecoin.com. We appreciate your feedback.
 
-CONTENTS
-Mobile
-Step 1: Buy Bitcoin on a coin exchange
-Step 2: Download Mixin Messenger
-Step 3: Transfer Bitcoin to your Mixin wallet
-Step 4: Swap your Bitcoin for MOB
-Step 5: Move your MOB into your MobileCoin wallet
-Desktop
-Step 1: Buy Bitcoin on a coin exchange
-Step 2: Install the Fennec browser extension
-Step 3: Transfer Bitcoin to your Fennec wallet
-Step 4: Swap your Bitcoin for MOB
-Step 5: Move your MOB into your MobileCoin wallet
 MOBILE
 Step 1: Buy Bitcoin on a coin exchange
 Step 2: Download the Mixin Messenger app onto your phone
 Step 3: Transfer your Bitcoin to your Mixin Messenger wallet on your phone
 Step 4: Swap your Bitcoin for MOB in Mixin Wallet
 Step 5: Move your MOB into your MobileCoin desktop wallet
+
 Step 1: Buy Bitcoin on a coin exchange
 While there are a number of coin exchanges and thousands of cryptocurrencies, one of the easiest ways is to buy Bitcoin on a coin exchange like FTX.us or Coinbase.
 
@@ -151,97 +131,4 @@ This completes your transaction! You should see your MOB show up in your MobileC
 Stay tuned to learn more about our mobile wallet. It is currently in beta, available on iOS and Android.
 If you enjoyed this blog, subscribe here for product updates, trending topics, and news about upcoming events.
 
-DESKTOP
-Step 1: Buy Bitcoin on a coin exchange
-Step 2: Install the Fennec crypto wallet extension on your browser
-Step 3: Send Bitcoin to your Fennec wallet
-Step 4: Swap your Bitcoin for MOB at 4swap
-Step 5: Move your MOB into your MobileCoin desktop wallet
-Step 1: Buy Bitcoin on a coin exchange
-While there are a number of coin exchanges and thousands of cryptocurrencies, one of the easiest ways is to buy Bitcoin on a coin exchange like FTX.us or Coinbase.
-
-To buy Bitcoin on FTX:
-
-Register and go through the ID verification process. For more info and detailed steps to how to complete the ID verification process, check out FTX’s video.
-At the top of the FTX page, click WALLET to deposit some Bitcoin to exchange for MOB. You can use your credit card to purchase Bitcoin directly on FTX. Click the BUY BTC WITH CREDIT CARD button, and now you have Bitcoin in your wallet. For more details, here’s an explainer video.
-To buy Bitcoin on Coinbase.com:
-
-Register and go through the ID verification process. For more info and detailed steps of how to set up a Coinbase account and buy Bitcoin, check out Coinbase’s tutorial.
-Once you have set up your account, a green button will appear to add a payment method. Coinbase will likely make two small deposits to your bank account, which appear immediately. Login to your bank account and enter the two deposit amounts when prompted. Once you do this, the green button will change to say BUY CRYPTO.
-Step 2:  Install the Fennec crypto wallet on your browser
-You now need a wallet to hold your crypto. You can obtain a wallet by adding the Fennec desktop wallet extension to Chrome supported browsers and Firefox.
-
-
-After you add the extension, follow the instructions to set up an account. Make sure to backup the keystore to your computer when prompted or you could lose your crypto assets permanently. You also want to make sure you choose a strong password. Note: Passwords can’t be reset, so you need to make sure you remember your password.
-
-Step 3: Send Bitcoin to your Fennec wallet
-Now go over to your Fennec wallet (click the orange fox icon in your extensions bar to pop out your wallet). On the home screen you will see buttons for Send, Receive, and Swap. Below that you will see a box with tabs for Assets and Activities. Use the search bar in this box to search for BTC and click ADD ASSET.
-
-
-
-Once you have added Bitcoin as an asset you can go back and hit the RECEIVE button. Make sure the bar is showing BTC. You should see an address that looks like a QR code with a long string of letters and numbers and a small button to copy the address in the bottom right corner. That’s your wallet address. Copy it.
-
-
-Go back to Coinbase in your browser. Click the big button in the upper right corner that says SEND/RECEIVE. Make sure the SEND tab is active. At the bottom of the popup choose Bitcoin for the type of coin. Enter the amount you would like to send to your wallet. Choose a very small amount for your first transaction to make sure that you are doing everything correctly. Paste the address that you copied from your Fennec wallet into the TO field. Hit CONTINUE.
-
-The transfer of Bitcoin into your Fennec wallet may take some time (could take up to an hour). When confirmed, you should see in your Fennec wallet that you have Bitcoin.
-
-
-
-Step 4: Swap your Bitcoin for MOB at 4swap
-You can do the first part of this step while you’re waiting for your Bitcoin to arrive into your Fennec wallet. 4swap.org is a decentralized exchange that currently lists MOB. Go to 4swap.org and click the big pink button that says USE 4SWAP.
-
-
-
-Click CONNECT WALLET (another pink button).  Since you have already installed the Fennec wallet on your browser, 4swap should ask you automatically if you want to connect your Fennec wallet to 4swap. Click CONNECT FENNEC.
-
-
-
-Once you have Bitcoin in your wallet and your wallet is connected to a decentralized exchange that trades in MOB (4swap), this last bit should be easy. Make sure the top line on 4swap says BTC (Bitcoin). Enter the amount of Bitcoin that you want to swap. Make sure the second line says MOB (MobileCoin). Once you enter the amount of Bitcoin that you want to swap, the MOB line should auto-populate with the correct exchange amount and the SWAP button should activate and become pink. Hit SWAP.
-
-
-
-After a few seconds your MOB should appear in your Fennec wallet. Congrats! You now own MobileCoin!
-
-Be aware that exchanging cryptocurrencies may be a taxable event. Please consult your tax adviser if you have questions.
-
- 
-
-Step 5: Move your MOB into your MobileCoin desktop wallet
-This is a really easy process. But first you have to download your MobileCoin desktop wallet and create an account. Once you’ve got your MobileCoin desktop wallet installed, it’s simply a process of sending and receiving money, which you’ve done before.
-
-Open your Fennec desktop wallet and choose SEND.
-
-
-
-Choose ADDRESS.
-
-.
-
-Make sure the top line says MOB and choose SELECT FROM ADDRESS.
-
- 
-
-
-
- 
-
-Here you will need to add your MOB wallet address. Click the + to add a new address. Open your MobileCoin desktop wallet and enter your password to unlock your wallet. Once your wallet is open, you will see your address (it is the square filled with lots of blue, white, and green letters and numbers). Click on the address block to copy it.
-
-
-
-Back in your Fennec wallet, paste your address into the address box on the bottom. Name your address something memorable. Click SAVE. Fennec will make your re-enter your password. After you do, you will see a green button pop up that says SAVED SUCCESSFULLY.
-
-
-
-Click on the address box. This will open the send screen. Click into the box that says MOB and enter the amount you want to send.
-
-
-
-Hit the big orange button that says SEND. You should see another green button pop up that says SEND SUCCESSFULLY! Your MOB should appear in your MobileCoin wallet within a few seconds. If you don’t see it appear automatically, log out and log back in to your wallet.
-
-Stay tuned to learn more about our mobile wallet. It is currently in beta, available on iOS and Android.
-If you enjoyed this blog, subscribe here for product updates, trending topics, and news about upcoming events.
-
-This article is being shared by MobileCoin Inc. for informational and illustrative purposes only. Other than MOB and the MobileCoin Desktop Wallet, MobileCoin Inc. and its subsidiaries are not affiliated with the entities and products mentioned in this article. MobileCoin Inc. does not recommend or endorse the use of any third-party exchange, currency, wallet, or tools mentioned in this article.
 
