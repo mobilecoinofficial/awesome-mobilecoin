@@ -1,7 +1,7 @@
 ---
-title: "Signal CLI"
+title: "Auxin"
 icon: ""
-description: "Signal CLI Wrapper"
+description: "Command Line for Signal"
 category: "Bots, SDK"
 signalBot: ""
 developer: "Forest"
