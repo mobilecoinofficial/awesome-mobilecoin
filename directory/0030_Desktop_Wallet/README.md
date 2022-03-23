@@ -4,7 +4,7 @@ description: "Wallet for Mac OS X"
 category: "Wallet"
 developer: "MobileCoin"
 developerSite: "https://mobilecoin.com"
-icon: ""
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0030_Desktop_Wallet/osx.png"
 appStore: "https://get.mobilecoin.com/mac"
 ---
 How to download and set up your MobileCoin Desktop Wallet
