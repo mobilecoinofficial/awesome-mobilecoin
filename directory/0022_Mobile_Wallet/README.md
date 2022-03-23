@@ -4,7 +4,7 @@ description: "Mobile Wallet"
 category: "Wallet"
 developer: "MobileCoin"
 developerSite: "https://mobilecoin.com"
-icon: ""
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0022_Mobile_Wallet/ios.png"
 appStore: "https://mobilecoin.com/beta"
 ---
 How to get the MobileCoin app for your smartphone
