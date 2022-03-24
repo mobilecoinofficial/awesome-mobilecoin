@@ -6,8 +6,7 @@ developer: "Hotbit"
 developerSite: "https://www.hotbit.io/"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0089_Hotbit/hotbit.png"
 appStore: "itms-apps://itunes.apple.com/app/id1568969341"
-playStore: "https://play.google.com/store/apps/details?id=io.hotbit.shouyi
-"
+playStore: "https://play.google.com/store/apps/details?id=io.hotbit.shouyi"
 ---
 
 
