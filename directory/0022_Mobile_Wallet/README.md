@@ -4,7 +4,7 @@ description: "App for Android and iOS"
 category: "Wallet"
 developer: "MobileCoin"
 developerSite: "https://mobilecoin.com"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0022_Mobile_Wallet/ios.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0022_Mobile_Wallet/ios.svg"
 appStore: "https://mobilecoin.com/beta"
 playStore: "https://mobilecoin.com/beta"
 ---
