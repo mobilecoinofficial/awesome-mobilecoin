@@ -3,7 +3,7 @@ title: "Fennec"
 description: "A wallet in your web browser."
 category: "Wallets"
 developer: "Pando.im"
-icon: "https://lh3.googleusercontent.com/udp1NBZgSOP5yOvZKSS83N0Wlj8BtznzlVqPl3MK88aYUburXhPua_oMjzIY2TPeP5e48CKbQTf79TbRhVwmKsacCzI=w128-h128-e365-rj-sc0x00ffffff"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0010_Fennec/fennec.png"
 gitHub: "https://github.com/fox-one/fennec/blob/main/README.md"
 support: "https://pando.im/fennec"
 ---
