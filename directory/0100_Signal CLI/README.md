@@ -1,6 +1,6 @@
 ---
 title: "Auxin"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0100_Signal%20CLI/cli.webp"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0100_Signal%20CLI/cli.png"
 description: "Signal Rust CLI"
 category: "Bots, SDK"
 signalBot: ""
