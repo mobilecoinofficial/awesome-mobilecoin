@@ -4,7 +4,7 @@ description: "Trade a variety of digital assets"
 category: "Exchange"
 developer: "FTX"
 developerSite: "https://ftx.com"
-icon: ""
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0030_FTX/ftx.webp"
 appStore: "https://ftx.com/apps"
 playStore: "https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio&hl=en_US&gl=US"
 ---
