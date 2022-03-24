@@ -1,6 +1,6 @@
 ---
 title: "Auxin"
-icon: ""
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0100_Signal%20CLI/Signal_Logo-700x700.png"
 description: "Command Line for Signal"
 category: "Bots, SDK"
 signalBot: ""
