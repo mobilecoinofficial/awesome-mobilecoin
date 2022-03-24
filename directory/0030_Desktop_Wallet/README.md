@@ -1,6 +1,6 @@
 ---
-title: "Desktop Wallet"
-description: "Wallet for Mac OS X"
+title: "MobileCoin for Mac"
+description: "Wallet with offline features"
 category: "Wallet"
 developer: "MobileCoin"
 developerSite: "https://mobilecoin.com"
