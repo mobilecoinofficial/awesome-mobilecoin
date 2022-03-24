@@ -4,7 +4,7 @@ description: "One-Stop Digital Asset Service"
 category: "Trading"
 developer: "BigONE"
 developerSite: "https://big.one/"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0081_Bigone/bigone.svg"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0081_Bigone/bigone.png"
 appStore: "https://apps.apple.com/us/app/bigone/id1485385044"
 playStore: "https://play.google.com/store/apps/details?id=one.big"
 ---
