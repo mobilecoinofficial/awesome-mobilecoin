@@ -1,5 +1,5 @@
 ---
-title: "MobileCoin Vault"
+title: "MobileCoin Wallet"
 description: "Wallet for Mac OS X"
 category: "Wallet"
 developer: "MobileCoin"
