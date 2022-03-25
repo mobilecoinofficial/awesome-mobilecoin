@@ -4,7 +4,7 @@ description: "Digital asset trading"
 category: "Trading"
 developer: "Bitfinex"
 developerSite: "https://www.bitfinex.com/"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0079_Bitfinex/bitfinex.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0089_Bitfinex/bitfinex.png"
 appStore: "https://apps.apple.com/us/app/bitfinex/id1436383182?ls=1"
 playStore: "https://play.google.com/store/apps/details?id=com.bitfinex.mobileapp&hl=en"
 ---
