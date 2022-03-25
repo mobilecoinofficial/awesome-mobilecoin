@@ -1,7 +1,7 @@
 ---
-title: "Signal CLI"
+title: "Auxin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0011_Auxin/rust-icon-19.png"
-description: "Signal toolkit written in Rust"
+description: "Signal CLI written in Rust"
 category: "Bots, SDK"
 signalBot: ""
 developer: "Forest"
