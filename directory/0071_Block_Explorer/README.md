@@ -1,6 +1,6 @@
 ---
 title: "Block Explorer"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0100_Block_Explorer/logo.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0071_Block_Explorer/logo.png"
 description: "Transaction search engine"
 category: "Tools"
 developer: "MobileCoin"
