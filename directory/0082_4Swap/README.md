@@ -1,6 +1,6 @@
 ---
 title: "4Swap"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0020_4Swap/logo.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0082_4Swap/logo.png"
 description: "Decentralized exchange"
 category: "Messaging, Bots, Exchanges"
 appStore: "https://app.4swap.org/#/"
