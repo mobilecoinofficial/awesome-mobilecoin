@@ -1,6 +1,6 @@
 ---
 title: "Signal Messenger"
-description: "Send MobileCoin to your contacts, privately."
+description: "Pay and get paid MobileCoin directly with your phone contacts."
 category: "Messaging"
 developer: "Signal"
 developerSite: "https://signal.org"
