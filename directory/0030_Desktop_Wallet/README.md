@@ -1,11 +1,11 @@
 ---
-title: "MobileCoin Wallet"
-description: "Wallet for Mac OS X"
+title: "Desktop Wallet"
+description: "Support for Mac OS X, Ubuntu, RedHat, Linux"
 category: "Wallet"
 developer: "MobileCoin"
 developerSite: "https://mobilecoin.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0030_Desktop_Wallet/osx2.svg"
-appStore: "https://get.mobilecoin.com/mac"
+appStore: "https://get.mobilecoin.com/"
 ---
 How to download and set up your MobileCoin Desktop Wallet
 =========================================================
