@@ -7,7 +7,7 @@ appStore: "https://apps.apple.com/app/mixin/id1322324266"
 playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
 developer: "Mixin"
 developerSite: "https://mixin.one/messenger"
-gitHub: "https://github.com/MixinNetwork/ios-app"
+gitHub: "https://github.com/MixinNetwork"
 ---
 
 ## Mixin is a messenger with end-to-end encryption built on the Signal protocol.
