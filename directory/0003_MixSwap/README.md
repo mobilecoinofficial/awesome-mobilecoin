@@ -3,7 +3,8 @@ title: "MixSwap"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0003_MixSwap/icon.svg"
 description: "Buy MobileCoin for the best price with a DEX Aggregator similar to 1inch"
 category: "Messaging, Bots, Exchanges"
-appStore: "https://app.mixswap.exchange/"
+appStore: "mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2"
+playStore: "mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2"
 developer: "Ocean.one"
 developerSite: "https://app.mixswap.exchange/"
 gitHub: "https://docs.pando.im/developer/lake/overview/"
@@ -15,7 +16,9 @@ support: "https://support.mixswap.exchange/en/quickstart"
 
 **MixSwap** is the MiFi DEX aggregation trading platform of Exin, the most popular developer of the Mixin ecosystem.
 
-The Mixin ID of MixSwap is **7000103767**, you can visit this [link](mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2) to authorize and experience it.
+The Mixin ID of MixSwap is **7000103767**, you can visit the link below to authorize and experience it.
+
+<a href="mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2">Open MixSwap with Mixin</a>
 
 How to download and update Mixin Messenger:
 
