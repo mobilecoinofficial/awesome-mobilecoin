@@ -1,7 +1,7 @@
 ---
 title: "Mixin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
-description: "Exchange MobileCoin and Bitcoin in the US"
+description: "Buy MobileCoin with end-to-end encryption built on the Signal protocol."
 category: "Messaging, Bots, Exchanges"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
 playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
