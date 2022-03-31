@@ -13,7 +13,6 @@ support: "https://support.mixswap.exchange/en/quickstart"
 
 ![MixSwap](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0003_MixSwap/logo.svg)
           
-
 **MixSwap** is the MiFi DEX aggregation trading platform of Exin, the most popular developer of the Mixin ecosystem.
 
 The Mixin ID of MixSwap is **7000103767**, you can visit the link below to authorize and experience it.
