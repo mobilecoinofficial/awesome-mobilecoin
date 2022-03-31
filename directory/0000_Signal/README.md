@@ -1,6 +1,6 @@
 ---
 title: "Signal Messenger"
-description: "Pay and get paid MobileCoin directly with your phone contacts."
+description: "In-app Payments with MobileCoin is easy and accessible to over 120 million users globally."
 category: "Messaging"
 developer: "Signal"
 developerSite: "https://signal.org"
