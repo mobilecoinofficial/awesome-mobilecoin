@@ -1,7 +1,7 @@
 ---
 title: "MixSwap"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0003_MixSwap/icon.svg"
-description: "DEX Aggregator trading MobileCoin on 4Swap and ExinSwap"
+description: "Buy MobileCoin for the best price with a DEX Aggregator similar to 1inch"
 category: "Messaging, Bots, Exchanges"
 appStore: "https://app.mixswap.exchange/"
 developer: "Ocean.one"
