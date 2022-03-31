@@ -7,13 +7,62 @@ appStore: "https://app.mixswap.exchange/"
 developer: "Ocean.one"
 developerSite: "https://app.mixswap.exchange/"
 gitHub: "https://docs.pando.im/developer/lake/overview/"
-support: "https://mixin.one/codes/89f7e832-ff53-4fff-ad47-10c68ec96ae2"
+support: "https://support.mixswap.exchange/en/quickstart"
 ---
 
-<img href="https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0003_MixSwap/logo.svg/>
+![MixSwap](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0003_MixSwap/logo.svg)
+          
 
-<div class="mix-field-content"><h2 data-v-ffd59576="" class="heading"><span data-v-ffd59576="" class="line"></span><span data-v-ffd59576="" class="text">MixSwap Product Description</span><span data-v-ffd59576="" class="line"></span></h2><p data-v-ffd59576="">1. MixSwap is a MiFi DEX aggregated trading platform from Exin, the most popular developer of the Mixin ecosystem.</p><p data-v-ffd59576="">2. MixSwap uses an aggregated trading model and accesses multiple exchanges in depth, with the goal of helping you exchange more cryptos and save more money.</p><p data-v-ffd59576="">3.MixSwap may refund cryptos, please refer to the actual exchanged ones.</p><p data-v-ffd59576="">4. If MixSwap helps you exchange more cryptos, you can give us a reward^_^.view <a href="/#/rewardRanking">reward list</a></p></div>
+**MixSwap** is the MiFi DEX aggregation trading platform of Exin, the most popular developer of the Mixin ecosystem.
 
-<div class="mix-field-content"><h2 data-v-ffd59576="" class="heading"><span data-v-ffd59576="" class="line"></span><span data-v-ffd59576="" class="text">MixSwap Risk Notice</span><span data-v-ffd59576="" class="line"></span></h2><p data-v-ffd59576="">1. MixSwap is a DEX aggregator, currently only aggregates ExinSwap and 4swap, users who use this product need to understand the trading principles of MixSwap and can read <a href="https://support.mixswap.exchange/#/" target="_blank">here</a>. </p><p data-v-ffd59576="">2. Some niche coins may have poor depth, resulting in differences in exchange results. To avoid such problems, be sure to confirm the price yourself before exchanging.</p><p data-v-ffd59576="">3. There is a time difference between the estimate and the actual transaction, the transaction may generate slippage, the estimate is for reference only, please refer to the actual price, you can control the risk by setting the slippage tolerance. Occasionally the mainnet delay may cause the transaction takes a long time, please wait patiently.</p></div>
+The Mixin ID of MixSwap is **7000103767**, you can visit this [link](mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2) to authorize and experience it.
 
-<span data-v-ffd59576="" class="text"> If you have questions or comments need to reply, please contact customer service.  Mixin ID: <span data-v-ffd59576="" class="link">26930</span></span>
+How to download and update Mixin Messenger:
+
+-   Google Play: <https://play.google.com/store/apps/details?id=one.mixin.messenger>
+
+-   App Store: <https://apps.apple.com/us/app/mixin-messenger/id1322324266>
+
+What pairs are currently supported by MixSwap?
+
+==================================================
+
+The goal of MixSwap is to support all tokens supported by the Mixin Network.
+
+What is Mixin Network and Mixin Messenger?
+
+==============================================
+
+**Mixin Network** is a free and fast peer-to-peer digital asset trading network. It uses sidechains, Layer2 Off-Chain and other technologies, uses PoS + Asynchronous BFT consensus, and uses DAG to store transaction records. Finally, it achieves second-level confirmation, zero fees and enhanced transactions features of privacy.
+
+**Mixin Messenger** is an open source end-to-end encrypted chat software and integrates a multi-chain wallet based on Mixin Network.
+
+What's the difference between MixSwap and an exchange?
+
+==========================================================
+
+MixSwap uses a 1inch-like aggregated trading model and does not provide depth itself.
+
+Exchanges usually take an order book model, which usually requires a market maker to service the exchange and provide liquidity to traders.
+
+What is the difference between MixSwap and ExinSwap?
+
+========================================================
+
+MixSwap uses a 1inch-like aggregated trading model and does not provide depth itself.
+
+ExinSwap is a Uniswap-like DEX that uses the AMM model.
+
+What is the difference between MixSwap and ExinOne?
+
+=======================================================
+
+MixSwap uses a 1inch-like aggregated trading model and does not provide depth itself.
+
+ExinOne's trading is based on the "**Exchange Purchase**" model, where ExinOne helps users trade cryptocurrencies through an exchange API.
+
+How do I exchange cryptocurrencies with MixSwap?
+
+====================================================
+
+If you are new to MixSwap and would like to learn how to exchange cryptocurrencies, please read our step-by-step guide: "[MixSwap Exchange tutorial](https://w3c.group/c/1614753078320604)
