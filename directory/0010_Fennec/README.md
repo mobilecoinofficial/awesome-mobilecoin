@@ -1,6 +1,6 @@
 ---
 title: "Fennec"
-description: "MobileCoin Wallet for your browser, like Metamask but safe and private."
+description: "Use MobileCoin in your web browser, like Metamask but safer and private."
 category: "Wallets"
 developer: "Pando.im"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0010_Fennec/fennec.png"
