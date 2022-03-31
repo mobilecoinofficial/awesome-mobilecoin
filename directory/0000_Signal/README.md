@@ -1,6 +1,6 @@
 ---
 title: "Signal Messenger"
-description: "Send MobileCoin to your contacts."
+description: "Send MobileCoin to your contacts, privately."
 category: "Messaging"
 developer: "Signal"
 developerSite: "https://mixin.one/messenger"
