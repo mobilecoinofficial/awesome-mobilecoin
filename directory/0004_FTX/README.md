@@ -1,10 +1,10 @@
 ---
 title: "FTX"
-description: "Trade a variety of digital assets"
+description: "The #3 crypto exchange in the world sells MobileCoin (MOB) perpetual futures"
 category: "Exchange"
 developer: "FTX"
 developerSite: "https://ftx.com"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0083_FTX/ftx.webp"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0004_FTX/ftx.webp"
 appStore: "https://ftx.com/apps"
 playStore: "https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio&hl=en_US&gl=US"
 ---
