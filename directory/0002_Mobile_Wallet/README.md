@@ -1,5 +1,5 @@
 ---
-title: "MobileCoin Wallet (Beta)"
+title: "MobileCoin Beta App"
 description: "Become a Beta tester with the MobileCoin App for Android and iOS."
 category: "Wallet"
 developer: "MobileCoin"
