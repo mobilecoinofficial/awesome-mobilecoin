@@ -1,6 +1,6 @@
 ---
-title: "Signal Messenger"
-description: "In-app Payments with MobileCoin is easy and accessible to over 120 million users globally."
+title: "Signal"
+description: "Signal's in-app Payments with MobileCoin is easy and accessible to over 120 million users globally."
 category: "Messaging"
 developer: "Signal"
 developerSite: "https://signal.org"
