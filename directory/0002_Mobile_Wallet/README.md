@@ -1,10 +1,10 @@
 ---
-title: "Mobile Wallet"
-description: "App for Android and iOS"
+title: "MobileCoin Wallet (Beta)"
+description: "Become a Beta tester with the MobileCoin App for Android and iOS."
 category: "Wallet"
 developer: "MobileCoin"
 developerSite: "https://mobilecoin.com"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0022_Mobile_Wallet/ios.svg"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0002_Mobile_Wallet/ios.svg"
 appStore: "https://mobilecoin.com/beta"
 playStore: "https://mobilecoin.com/beta"
 ---
