@@ -1,6 +1,6 @@
 ---
-title: "FTX"
-description: "The #3 crypto exchange in the world sells MobileCoin (MOB) perpetual futures"
+title: "FTX.com"
+description: "Buy and sell MobileCoin on the third largest exchange in the world."
 category: "Exchange"
 developer: "FTX"
 developerSite: "https://ftx.com"
