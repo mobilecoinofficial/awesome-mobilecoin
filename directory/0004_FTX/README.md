@@ -1,6 +1,6 @@
 ---
 title: "FTX.com"
-description: "Buy and sell MobileCoin on the third largest exchange in the world."
+description: "Buy, borrow, and loan Mobilecoin and futures on one of the top 3 exchanges."
 category: "Exchange"
 developer: "FTX"
 developerSite: "https://ftx.com"
