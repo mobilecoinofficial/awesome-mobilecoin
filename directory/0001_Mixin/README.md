@@ -1,7 +1,7 @@
 ---
 title: "Mixin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
-description: "Mixin Messenger works with decentralized exchanges like MixSwap and 4Swap and uses end-to-end encryption built on the Signal protocol."
+description: "Buy and sell Mobilecoin on a decentralized exchange (DEX) with the Mixin Messenger Wallet, based on the Signal protocol."
 category: "Messaging, Bots, Exchanges"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
 playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
