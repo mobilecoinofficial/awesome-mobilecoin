@@ -10,12 +10,38 @@ playStore: "https://play.google.com/store/apps/details?id=org.thoughtcrime.secur
 ---
 # Signal is a simple, powerful, and secure messenger
 ### Share Without Insecurity
-State-of-the-art end-to-end encryption (powered by the open source Signal Protocol) keeps your conversations secure. We can't read your messages or listen to your calls, and no one else can either. Privacy isn’t an optional mode — it’s just the way that Signal works. Every message, every call, every time.
+State-of-the-art end-to-end encryption (powered by the open source Signal Protocol) keeps your conversations secure. We can't read your messages or listen to your calls, and no one else can either. Security isn’t an optional mode — it’s just the way that Signal works. Every message, every call, every time.
+
+```
+Step 1 of 3
+```
+
+#### **Install Signal on Mobile**
+MobileCoin powers the wallet in Signal's iOS and Android apps.
+
+![](https://images.squarespace-cdn.com/content/v1/624b284acc6f4b3917c9d40d/1649092683222-5D19X94Q3VFNKP2RYA1Y/signal-phone.png?format=750w)
+
+[iOS](https://apps.apple.com/us/app/signal-private-messenger/id874139669)
+
+[Android](https://play.google.com/store/apps/details?gl=us&id=org.thoughtcrime.securesms)
+
+```
+Step 2 of 3
+```
+
+#### **Activate Payments\
+in Signal**
+
+You must opt into the payments experience.
+
+![](https://images.squarespace-cdn.com/content/v1/624b284acc6f4b3917c9d40d/7f1400e3-a06d-47b3-b6ce-bd2a5045ab62/gif.gif?format=750w)
+
+[Get Live Help](https://signal.group/#CjQKINninfeprD7l4zEhTXOzNS5Qex-XpvxAFyYlZDb-0CTFEhAJeLZV7GuaR4fUv4Lwp0C2)
 ### Say Anything
 Share text, voice messages, photos, videos, GIFs and files for free. Signal uses your phone's data connection so you can avoid SMS and MMS fees.
 ### Speak Freely
 Make crystal-clear voice and video calls to people who live across town, or across the ocean, with no long-distance charges.
-### Make Privacy Stick
+### Make Stickers
 Add a new layer of expression to your conversations with encrypted stickers. You can also create and share your own sticker packs.
 ### Get Together with Groups
 Group chats make it easy to stay connected to your family, friends, and coworkers.
@@ -76,7 +102,7 @@ Supported Cryptocurrencies
 --------------------------
 
 [MobileCoin](https://www.mobilecoin.com/)\
-MobileCoin is a cryptocurrency designed to be used as digital cash on your phone. Information about the transaction is private: sender, receiver, amount transferred, and message are all unknown to Signal.
+MobileCoin is a cryptocurrency designed to be used as digital cash on your phone. Information about the transaction is encrypted: sender, receiver, amount transferred, and message are all unknown to Signal.
 
 * * * * *
 
