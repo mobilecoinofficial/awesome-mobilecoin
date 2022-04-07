@@ -1,8 +1,8 @@
 ---
-title: "Buy Mobilecoin on Mixin"
+title: "Mixin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
-description: "Buy and sell Mobilecoin on a decentralized exchange (DEX) with the Mixin Messenger Wallet, based on the Signal protocol."
-category: "Messaging, Bots, Exchanges"
+description: "Swap Mobilecoin on multiple decentralized exchanges with Mixin's open source cryptocurrency wallet."
+category: "Messaging"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
 playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
 developer: "Mixin"
