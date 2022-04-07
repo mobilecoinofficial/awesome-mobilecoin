@@ -1,34 +1,20 @@
 ---
 title: "Fennec Wallet"
-description: "Use MobileCoin in your web browser, like Metamask but private."
+description: "Say no to gas fees. Seamlessly swap BTC, ETH, BNB and ATOM for Mobilecoin. Cross-chain DeFi made easy."
 category: "Wallets"
 developer: "Pando.im"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0010_Fennec/fennec.png"
-gitHub: "https://github.com/fox-one/fennec/blob/main/README.md"
+gitHub: "https://github.com/fox-one/fennec"
 support: "https://pando.im/fennec"
 ---
-Fennec is an opensource crypto wallet on Mixin Network in your browser. Fennec makes it safe & easy for you to store, send, receive, stake, and swap tokens on Mixin Network.
+Fennec is the easy way to buy MobileCoin. Fennec is an opensource crypto wallet that works right in your web browser. The wallet connects to the Mixin Network and manages your Mixin wallet without downloading the Mixin app. Fennec works with 4swap to swap 45 token pairs with zero gas fees.
 
-Manage your Mixin Messenger accounts without downloading the app.
+### Install the browser extension from the Chrome webstore or Firefox add-ons 🛒
 
-You can easily receive, send or swap cryptocurrencies after creating a keystore address. 
+-   [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/fox_fennec/)
+-   [Chrome Store](https://chrome.google.com/webstore/detail/fennec/eincngenkhohbbfpkohipekcmnkfamjp)
 
-The swapping function is supported by 4swap. It now supports 45 token pairs crosschains and there is no gas fee charged!
-
-You can visit https://app.4swap.org, tap "Connect wallet" button to use Fennec in 4swap.
-
-Learn more about Fennec at https://github.com/fox-one/fennec/blob/main/README.md and https://pando.im/fennec
-
-![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/desktop-solid-purple.svg)DESKTOP
---------------------------------------------------------------------------------------------------
-
--   [Step 1: Buy Bitcoin on a coin exchange](https://mobilecoin.com/news/how-to-buy-mob-in-the-us#desktop-1)
--   [Step 2: Install the Fennec crypto wallet extension on your browser](https://mobilecoin.com/news/how-to-buy-mob-in-the-us#desktop-2)
--   [Step 3: Send Bitcoin to your Fennec wallet](https://mobilecoin.com/news/how-to-buy-mob-in-the-us#desktop-3)
--   [Step 4: Swap your Bitcoin for MOB at 4swap](https://mobilecoin.com/news/how-to-buy-mob-in-the-us#desktop-4)
--   [Step 5: Move your MOB into your MobileCoin desktop wallet](https://mobilecoin.com/news/how-to-buy-mob-in-the-us#desktop-5)
-
-### ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/secure.svg)Step 1: Buy Bitcoin on a coin exchange
+### ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/secure.svg)Step 1: Buy Bitcoin or Ethereum on a coin exchange
 
 While there are a number of coin exchanges and thousands of cryptocurrencies, one of the easiest ways is to buy Bitcoin on a coin exchange like FTX.us or Coinbase.
 
