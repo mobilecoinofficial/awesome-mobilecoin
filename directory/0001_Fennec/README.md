@@ -1,6 +1,6 @@
 ---
 title: "Fennec Wallet"
-description: "Say no to gas fees. Seamlessly swap BTC, ETH, BNB and ATOM for Mobilecoin. Cross-chain DeFi made easy."
+description: "Seamlessly swap BTC, ETH, BNB and ATOM for Mobilecoin. Cross-chain DeFi made easy."
 category: "Wallets"
 developer: "Pando.im"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0010_Fennec/fennec.png"
