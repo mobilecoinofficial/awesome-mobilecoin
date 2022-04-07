@@ -1,6 +1,6 @@
 ---
-title: "Activate Signal Payments"
-description: "Signal's in-app payments with MobileCoin is easy and accessible to over 120 million users globally."
+title: "Signal Payments"
+description: "Pay your phone contacts in the  messaging app used by over 120 million users globally."
 category: "Messaging"
 developer: "Signal"
 developerSite: "https://signal.org"
