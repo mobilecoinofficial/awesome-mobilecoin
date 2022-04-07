@@ -1,5 +1,5 @@
 ---
-title: "Mixin"
+title: "Mixin Wallet"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
 description: "Swap Mobilecoin on multiple decentralized exchanges with Mixin's open source cryptocurrency wallet."
 category: "Messaging"
