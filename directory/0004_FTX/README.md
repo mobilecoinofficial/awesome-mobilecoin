@@ -1,7 +1,7 @@
 ---
 title: "FTX.com"
 description: "Buy, sell, borrow, and loan Mobilecoin and perpetual futures."
-category: "Exchange"
+category: "Exchanges"
 developer: "FTX"
 developerSite: "https://ftx.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0004_FTX/ftx.webp"
