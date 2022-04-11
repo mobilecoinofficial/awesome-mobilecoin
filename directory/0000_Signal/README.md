@@ -1,6 +1,6 @@
 ---
 title: "Signal Payments"
-description: "Pay your phone contacts in the  messaging app used by over 120 million users globally."
+description: "Send MobileCoin your phone contacts with Signal's new in-app wallet."
 category: "Messaging"
 developer: "Signal"
 developerSite: "https://signal.org"
@@ -18,11 +18,7 @@ Step 1 of 3
 
 #### **Install Signal on Mobile**
 MobileCoin powers the wallet in Signal's iOS and Android apps.
-
-![](https://images.squarespace-cdn.com/content/v1/624b284acc6f4b3917c9d40d/1649092683222-5D19X94Q3VFNKP2RYA1Y/signal-phone.png?format=750w)
-
 [iOS](https://apps.apple.com/us/app/signal-private-messenger/id874139669)
-
 [Android](https://play.google.com/store/apps/details?gl=us&id=org.thoughtcrime.securesms)
 
 ```
@@ -32,7 +28,12 @@ Step 2 of 3
 #### **Activate Payments\
 in Signal**
 
-You must opt into the payments experience.
+To activate Signal Payments: 
+⬅️ Tap < to go back
+👤 Tap the profile icon
+⚙️ Tap Settings 
+💳 Tap Payments
+🅿️ Tap Activate Payments
 
 ![](https://images.squarespace-cdn.com/content/v1/624b284acc6f4b3917c9d40d/7f1400e3-a06d-47b3-b6ce-bd2a5045ab62/gif.gif?format=750w)
 
@@ -133,9 +134,7 @@ Transaction details, including the payment amount and time of transaction, are p
 
 ### Network Fee & Coin Cleanup Fee
 
-All fees are determined by and collected by MobileCoin, not Signal.
-
-Coin Cleanup Fee is charged when the coins in your possession can not be combined to complete a transaction. It is also known as a defrag fee.
+All fees are determined by and collected by MobileCoin, not Signal. The transaction fee is .0004 MOB. A Coin Cleanup Fee is charged when the coins in your possession can not be combined to complete a transaction. It is also known as a defrag fee.
 
 1.  Your total funds or total coins are viewed as a record of your transactions. 
 2.  If you need to send or receive a payment consisting of more than [16 inputs or outputs](https://github.com/mobilecoinfoundation/mobilecoin/blob/2f90154a445c769594dfad881463a2d4a003d7d6/transaction/core/src/constants.rs) there is a coin cleanup fee.
