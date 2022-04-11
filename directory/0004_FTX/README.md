@@ -1,6 +1,6 @@
 ---
 title: "FTX.com"
-description: "Buy, borrow, and loan Mobilecoin and futures on one of the top 3 exchanges."
+description: "Buy, sell, borrow, and loan Mobilecoin and perpetual futures."
 category: "Exchange"
 developer: "FTX"
 developerSite: "https://ftx.com"
