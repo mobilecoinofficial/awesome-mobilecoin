@@ -1,6 +1,6 @@
 ---
 title: "Signal Payments"
-description: "Send MobileCoin your phone contacts with Signal's new in-app wallet."
+description: "Send MobileCoin directly to your phone contacts with Signal's new in-app wallet."
 category: "Messaging"
 developer: "Signal"
 developerSite: "https://signal.org"
