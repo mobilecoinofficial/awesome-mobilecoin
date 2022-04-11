@@ -25,8 +25,7 @@ MobileCoin powers the wallet in Signal's iOS and Android apps.
 Step 2 of 3
 ```
 
-#### **Activate Payments\
-in Signal**
+#### **Activate Payments**
 
 To activate Signal Payments: 
 ⬅️ Tap < to go back
