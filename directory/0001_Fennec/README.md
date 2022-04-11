@@ -1,6 +1,6 @@
 ---
 title: "Fennec Wallet"
-description: "Seamlessly swap BTC, ETH, BNB and ATOM for Mobilecoin."
+description: "Swap Bitcoin and ETH for Mobilecoin."
 category: "Wallets"
 developer: "Pando.im"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0010_Fennec/fennec.png"
