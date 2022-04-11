@@ -1,7 +1,7 @@
 ---
 title: "MixSwap"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0003_MixSwap/icon.svg"
-description: "Buy MobileCoin for the best price using the MixSwap DEX Aggregator combining liquidity from 4Swap and Exin."
+description: "Buy MobileCoin with the MixSwap DEX Aggregator."
 category: "Messaging, Bots, Exchanges"
 appStore: "mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2"
 playStore: "mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2"
