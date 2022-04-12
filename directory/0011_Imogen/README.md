@@ -1,7 +1,7 @@
 ---
 title: "Imogen"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0011_Imogen/imogen.png"
-description: "Generative art on the fly"
+description: "Imogen is a Signal Bot that generates digital art called 'imoges' using machine learning."
 category: "Bots, Art"
 signalBot: "https://signal.me/#p/+14159495511"
 developer: "Forest"
