@@ -21,6 +21,6 @@ support: "OPTIONAL a link to the project's support resource"
 developer: "OPTIONAL your name or the name of your organization as you want it to appear on screen"
 developerSite: "OPTIONAL a link to your website"
 ---
-A long description of your proejct goes here. Any GFM syntax or HTML is allowed, and it will render in a blog-like fashion at https://developers.mobilecoin.com/ecosystem/\[title\], where the \[title\] slug is a sanitized version of the title provided in the head above.
+A long description of your project goes here. Any GFM syntax or HTML is allowed, and it will render in a blog-like fashion at https://developers.mobilecoin.com/ecosystem/\[title\], where the \[title\] slug is a sanitized version of the title provided in the head above.
 ```
 
