@@ -7,6 +7,8 @@ developerSite: "https://mobilecoin.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0030_Desktop_Wallet/osx2.svg"
 appStore: "https://get.mobilecoin.com/"
 ---
+## Note: The Desktop Wallet is not currently supported by the core team today. Please use this as an example implementation, not as your day-to-day wallet.
+
 How to download and set up your MobileCoin Desktop Wallet
 =========================================================
 
