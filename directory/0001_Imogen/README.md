@@ -12,14 +12,6 @@ github: "https://github.com/mobilecoinofficial/forest/blob/main/imogen/README.md
 
 Imogen is a Signal Bot that generates images using VQGan and CLIP. These images are often affectionately referred to as Imoges. To have Imogen generate an Imoge for you you can join Imogen's Signal Group Chat.
 
-
-### Imogen on Signal
-[I, Imogen](https://signal.group/#CjQKIEP344g-nF0eIcaZkORbofLzTSlD5DKOUeGEFbus-w9uEhBzb6Q51MWZw6nSDkGLhwKN), Signal Group Chat where you can request Imoges. Since this is a public group we ask that you observe certain guidelines:
-- Treat all users in the group respectfully, this includes Imogen herself.
-- Be mindful of what prompts you request in public.
-- The administrators reserve the right to remove anyone from the group for any reason.
-<br>
-
 ### Imogen on Twitter ###
 
 Imogen posts all the images from groups on [her Twitter account](https://twitter.com/dreambs3). You can browse there to get an idea of what other users are collaborating with Imogen. Since posts in the group get posted to twitter automatically, please be mindful of your prompts to Imogen. Ask an administrator if you want an Imoge taken down from Twitter. 
