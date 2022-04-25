@@ -8,12 +8,11 @@ icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/m
 appStore: "https://apps.apple.com/us/app/signal-private-messenger/id874139669"
 playStore: "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
 ---
-# Signal is a simple, powerful, and secure messenger
+# Send MobileCoin through Signal 
 
 MobileCoin can be sent between any two people with a mobile phone, anywhere in the world. Our partnership with the Signal Messenger app makes MobileCoin available to more than 100 million users across the globe. 
 
-### Send Safely
-MobileCoin payments sent through Signal are fast, encrypted, and safe. Your money arrives on time, every time. State-of-the-art end-to-end encryption keeps your conversations secure. 
+MobileCoin payments sent through Signal are fast, encrypted, and environmentally friendly. Your money arrives on time, every time. State-of-the-art end-to-end encryption keeps your conversations secure. 
 
 ### Security isn’t optional
 Signal can't read your messages or view your MobileCoin transactions, and no one else can either. Security isn’t an optional mode — it’s just the way that Signal works. Information about the transaction is encrypted: sender, receiver, amount transferred, and message are all unknown to Signal.
@@ -29,23 +28,23 @@ MobileCoin powers the wallet in Signal's iOS and Android apps.
 [iOS](https://apps.apple.com/us/app/signal-private-messenger/id874139669)
 [Android](https://play.google.com/store/apps/details?gl=us&id=org.thoughtcrime.securesms)
 
-Enable your Signal PIN
-----------------------
-A Signal PIN is used to recover the wallet linked to your Signal account if you reinstall. The PIN is unknown to Signal and it can not be reset if you forget it. To activate your wallet, you must have [Signal PIN enabled](https://support.signal.org/hc/articles/360007059792-Signal-PIN) in [Signal Settings](https://support.signal.org/hc/articles/360009091591) ![profile_avatar.png](https://support.signal.org/hc/article_attachments/360091706271/profile_avatar.png) > Account.
-
 * * * * *
 
 Activate Payments
 -----------------
 Activating payments will let you send and receive MobileCoin.
 1. Open the Signal app on your phone.
-2. Tap Profile (in the top left) ![profile_avatar.png](https://support.signal.org/hc/article_attachments/360091706271/profile_avatar.png)
+2. Tap Profile (in the top left) 
 3. Tap Settings ⚙️ 
 4. Tap Payments 💳 
 5. Tap Activate Payments
 6. Accept and Agree to the Terms
 
 ![](https://images.squarespace-cdn.com/content/v1/624b284acc6f4b3917c9d40d/7f1400e3-a06d-47b3-b6ce-bd2a5045ab62/gif.gif?format=750w)
+
+Enable your Signal PIN
+----------------------
+A Signal PIN is used to recover the wallet linked to your Signal account if you reinstall. The PIN is unknown to Signal and it can not be reset if you forget it. To activate your wallet, you must have a Signal PIN enabled in Profile > Settings > Account.
 
 ### View Transactions
 
