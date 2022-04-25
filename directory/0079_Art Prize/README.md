@@ -10,8 +10,8 @@ Writer and curator *[Andrew Berardini](https://www.andrewberardini.com/)* and 
 * * * * *
 
 MobileCoin Art Prize Awardees
+====================================
 
-====================================\
 Gabriella Tores-Ferrar at Embajada, Puerto Rico
 
 Hangama Amiri at Towards, Toronto
