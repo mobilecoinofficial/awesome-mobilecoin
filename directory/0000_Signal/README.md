@@ -1,6 +1,6 @@
 ---
 title: "Signal Payments"
-description: "Send MobileCoin directly to your phone contacts with Signal's new in-app wallet."
+description: "Send MobileCoin to over 100 million people with Signal Messenger."
 category: "Messaging"
 developer: "Signal"
 developerSite: "https://signal.org"
@@ -9,124 +9,47 @@ appStore: "https://apps.apple.com/us/app/signal-private-messenger/id874139669"
 playStore: "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
 ---
 # Signal is a simple, powerful, and secure messenger
-### Share Without Insecurity
-State-of-the-art end-to-end encryption (powered by the open source Signal Protocol) keeps your conversations secure. We can't read your messages or listen to your calls, and no one else can either. Security isn’t an optional mode — it’s just the way that Signal works. Every message, every call, every time.
 
-```
-Step 1 of 3
-```
+MobileCoin can be sent between any two people with a mobile phone, anywhere in the world. Our partnership with the Signal Messenger app makes MobileCoin available to more than 100 million users across the globe. 
 
-#### **Install Signal on Mobile**
+### Send Safely
+MobileCoin payments sent through Signal are fast, encrypted, and safe. Your money arrives on time, every time. State-of-the-art end-to-end encryption keeps your conversations secure. 
+
+### Security isn’t optional
+Signal can't read your messages or view your MobileCoin transactions, and no one else can either. Security isn’t an optional mode — it’s just the way that Signal works. Information about the transaction is encrypted: sender, receiver, amount transferred, and message are all unknown to Signal.
+
+### Easy Wallet Recovery
+Securely recover your wallet if you lose your phone, using only your Signal PIN and phone number. Also, securely recover your 24 word phrase if you lose it - without trusting a provider with your private keys.
+
+### Free for Everyone
+Signal is an independent nonprofit. We're not tied to any major tech companies, and we can never be acquired by one either. Development is supported by grants and donations from people like you.
+
+### **Update Signal on your phone**
 MobileCoin powers the wallet in Signal's iOS and Android apps.
 [iOS](https://apps.apple.com/us/app/signal-private-messenger/id874139669)
 [Android](https://play.google.com/store/apps/details?gl=us&id=org.thoughtcrime.securesms)
 
-```
-Step 2 of 3
-```
-
-#### **Activate Payments**
-
-To activate Signal Payments: 
-⬅️ Tap < to go back
-👤 Tap the profile icon
-⚙️ Tap Settings 
-💳 Tap Payments
-🅿️ Tap Activate Payments
-
-![](https://images.squarespace-cdn.com/content/v1/624b284acc6f4b3917c9d40d/7f1400e3-a06d-47b3-b6ce-bd2a5045ab62/gif.gif?format=750w)
-
-[Get Live Help](https://signal.group/#CjQKINninfeprD7l4zEhTXOzNS5Qex-XpvxAFyYlZDb-0CTFEhAJeLZV7GuaR4fUv4Lwp0C2)
-### Say Anything
-Share text, voice messages, photos, videos, GIFs and files for free. Signal uses your phone's data connection so you can avoid SMS and MMS fees.
-### Speak Freely
-Make crystal-clear voice and video calls to people who live across town, or across the ocean, with no long-distance charges.
-### Make Stickers
-Add a new layer of expression to your conversations with encrypted stickers. You can also create and share your own sticker packs.
-### Get Together with Groups
-Group chats make it easy to stay connected to your family, friends, and coworkers.
-### No ads. No trackers. No kidding.
-There are no ads, no affiliate marketers, and no creepy tracking in Signal. So focus on sharing the moments that matter with the people who matter to you.
-### Free for Everyone
-Signal is an independent nonprofit. We're not tied to any major tech companies, and we can never be acquired by one either. Development is supported by grants and donations from people like you.
-
-
-In-app Payments
-===============
-
--   [Requirements](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_requirements)
--   [Why do I need to change my Signal PIN?](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_requirements_pin)
--   [Supported cryptocurrencies](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_which_ones)
--   [Activate Payments](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_activate)
--   [Payments details](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_details)
-    -   [View Transactions](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_details_view)
-    -   [Network Fee & Coin Cleanup Fee](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_details_fees)
-    -   [Currency Conversion](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_currency_conversion)
--   [Send Payments](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_send)
--   [Request Payments](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_request)
--   [Cancel or Undo Payment](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_cancel_undo)
--   [Deactivate Payments](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_deactivate)
--   [Restore wallet with passphrase](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_wallet_restore_passphrase)
--   [View wallet passphrase](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_wallet_view_passphrase)
--   [Transfer in from an exchange](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_transfer_from_exchange)
--   [Transfer out to an exchange](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_transfer_to_exchange)
--   [Uninstalled Signal](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_uninstalled_app)
-
-* * * * *
-
-Requirements
-------------
-
--   You must be using the [latest version of Signal](https://support.signal.org/hc/articles/360007059212) available for that device:
-    -   Android v5.27.8 or later
-    -   iOS v5.26.3 or later
--   A [Signal PIN enabled](https://support.signal.org/hc/articles/360007059792-Signal-PIN) in [Signal Settings](https://support.signal.org/hc/articles/360009091591) ![profile_avatar.png](https://support.signal.org/hc/article_attachments/360091706271/profile_avatar.png) > Account.
--   [Activated Payments](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_activate).
--   Not available in select regions and countries.
-
-* * * * *
-
-Why do I need to change my Signal PIN?
---------------------------------------
-
-A Signal PIN is used to recover the wallet linked to your Signal account if you reinstall. You will be asked to change your PIN if
-
--   there is a balance of at least 500 MOB in the wallet linked to your Signal account, and
--   the PIN is not alphanumeric.
-
-The PIN is unknown to Signal and it can not be reset if you forget it. 
-
-* * * * *
-
-Supported Cryptocurrencies
---------------------------
-
-[MobileCoin](https://www.mobilecoin.com/)\
-MobileCoin is a cryptocurrency designed to be used as digital cash on your phone. Information about the transaction is encrypted: sender, receiver, amount transferred, and message are all unknown to Signal.
+Enable your Signal PIN
+----------------------
+A Signal PIN is used to recover the wallet linked to your Signal account if you reinstall. The PIN is unknown to Signal and it can not be reset if you forget it. To activate your wallet, you must have [Signal PIN enabled](https://support.signal.org/hc/articles/360007059792-Signal-PIN) in [Signal Settings](https://support.signal.org/hc/articles/360009091591) ![profile_avatar.png](https://support.signal.org/hc/article_attachments/360091706271/profile_avatar.png) > Account.
 
 * * * * *
 
 Activate Payments
 -----------------
+Activating payments will let you send and receive MobileCoin.
+1. Open the Signal app on your phone.
+2. Tap Profile (in the top left) ![profile_avatar.png](https://support.signal.org/hc/article_attachments/360091706271/profile_avatar.png)
+3. Tap Settings ⚙️ 
+4. Tap Payments 💳 
+5. Tap Activate Payments
+6. Accept and Agree to the Terms
 
-Activating payments will let you send and receive [supported cryptocurrencies](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_which_ones).
-
-1.  Fulfill the [requirements](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_requirements) listed above.
-2.  Go to [Signal Settings](https://support.signal.org/hc/articles/360009091591) ![profile_avatar.png](https://support.signal.org/hc/article_attachments/360091706271/profile_avatar.png) > Payments > Activate Payments > Accept and Agree to Terms.
-
-* * * * *
-
-Payments details
-----------------
-
--   [View Transactions](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_details_view)
--   [Network Fee & Coin Cleanup Fee](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_details_fees)
--   [Currency Conversion](https://support.signal.org/hc/en-us/articles/360057625692-In-app-Payments#payments_currency_conversion)
+![](https://images.squarespace-cdn.com/content/v1/624b284acc6f4b3917c9d40d/7f1400e3-a06d-47b3-b6ce-bd2a5045ab62/gif.gif?format=750w)
 
 ### View Transactions
 
 Transaction details, including the payment amount and time of transaction, are part of the MobileCoin ledger and are unknown to Signal.
-
 -   View transaction history and details in [Signal Settings](https://support.signal.org/hc/articles/360009091591) ![profile_avatar.png](https://support.signal.org/hc/article_attachments/360091706271/profile_avatar.png) > Payments.
 -   Tap a transaction to see its status and message. 
 -   After there are a few transactions, tap See All, to view sent and received activity separately.
