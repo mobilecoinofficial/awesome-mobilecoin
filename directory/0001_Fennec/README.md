@@ -7,26 +7,12 @@ icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/m
 gitHub: "https://github.com/fox-one/fennec"
 support: "https://pando.im/fennec"
 ---
-Fennec is the easy way to buy MobileCoin. Fennec is an opensource crypto wallet that works right in your web browser. The wallet connects to the Mixin Network and manages your Mixin wallet without downloading the Mixin app. Fennec works with 4swap to swap 45 token pairs with zero gas fees.
+Fennec is the wallet that let's you buy MobileCoin in your web browser. Fennec is an opensource crypto wallet that works right in your web browser. The wallet connects to the Mixin Network and manages your Mixin wallet without downloading the Mixin app. Fennec works with 4swap to swap 45 token pairs with zero gas fees.
 
 ### Install the browser extension from the Chrome webstore or Firefox add-ons 🛒
 
 -   [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/fox_fennec/)
 -   [Chrome Store](https://chrome.google.com/webstore/detail/fennec/eincngenkhohbbfpkohipekcmnkfamjp)
-
-### ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/secure.svg)Step 1: Buy Bitcoin or Ethereum on a coin exchange
-
-While there are a number of coin exchanges and thousands of cryptocurrencies, one of the easiest ways is to buy Bitcoin on a coin exchange like FTX.us or Coinbase.
-
-To buy Bitcoin on [FTX](https://ftx.us/):
-
--   Register and go through the ID verification process. For more info and detailed steps to how to complete the ID verification process, check out [FTX's video](https://www.youtube.com/watch?v=am-oCJnZaug).
--   At the top of the FTX page, click WALLET to deposit some Bitcoin to exchange for MOB. You can use your credit card to purchase Bitcoin directly on FTX. Click the BUY BTC WITH CREDIT CARD button, and now you have Bitcoin in your wallet. For more details, here's an [explainer video](https://youtu.be/8Lnm-ij7Ga4?t=195).
-
-To buy Bitcoin on [Coinbase.com](http://coinbase.com/):
-
--   Register and go through the ID verification process. For more info and detailed steps of how to set up a Coinbase account and buy Bitcoin, check out [Coinbase's tutorial](https://www.coinbase.com/learn/tips-and-tutorials/how-to-set-up-a-crypto-wallet).
--   Once you have set up your account, a green button will appear to add a payment method. Coinbase will likely make two small deposits to your bank account, which appear immediately. Login to your bank account and enter the two deposit amounts when prompted. Once you do this, the green button will change to say BUY CRYPTO.
 
 ### ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/secure.svg)Step 2:  Install the Fennec crypto wallet on your browser
 
