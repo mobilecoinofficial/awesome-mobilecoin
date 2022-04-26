@@ -1,6 +1,6 @@
 # Awesome Projects built using MobileCoin
 
-# PSA: We are looking for developers to help on these projects:
+# Bounties:
 - [Block Explorer](https://gitcoin.co/issue/mobilecoinofficial/developer-grants/1/100028771)
 
 # How to add your app to the awesome directory
