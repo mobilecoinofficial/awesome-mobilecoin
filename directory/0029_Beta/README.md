@@ -1,5 +1,5 @@
 ---
-title: "Mobilecoin Beta"
+title: "Mobile App Beta"
 description: "Send and receive MobileCoin using QR codes for Android and iOS."
 category: "Wallet"
 developer: "MobileCoin"
