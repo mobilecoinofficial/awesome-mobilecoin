@@ -1,6 +1,7 @@
 # Awesome Projects built using MobileCoin
+This repository is a list of awesome projects built on MobileCoin. 
 
-# Bounties:
+# Open Bounties:
 - [Block Explorer](https://gitcoin.co/issue/mobilecoinofficial/developer-grants/1/100028771)
 
 # How to add your app to the awesome directory
