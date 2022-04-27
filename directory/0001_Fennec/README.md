@@ -3,7 +3,7 @@ title: "Fennec Wallet"
 description: "Swap Bitcoin and ETH for Mobilecoin."
 category: "Wallets"
 developer: "Pando.im"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0010_Fennec/fennec.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Fennec/fennec.png"
 gitHub: "https://github.com/fox-one/fennec"
 support: "https://pando.im/fennec"
 ---
