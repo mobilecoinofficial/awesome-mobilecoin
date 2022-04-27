@@ -13,22 +13,24 @@ support: "https://support.mixswap.exchange/en/quickstart"
 
 ![MixSwap](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0003_MixSwap/logo.svg)
           
-**MixSwap** is a DEX aggregator that uses the Mixin Network and combines liquidity providers from 4swap and MixSwap.
+**MixSwap** is an exchange aggregator that uses the Mixin Network and combines liquidity providers including 4swap and MixSwap.
 
 # Launch MixSwap 
-**Web App**
-To launch MixSwap, visit https://app.mixswap.exchange/ and connect your Mixin Wallet.
 
-**Mobile Appe**
+**Mobile App**
 If you have the Mixin mobile app installed, you can visit this link to launch MixSwap: <a href="mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2">Open MixSwap with Mixin</a>. You can also find MixSwap by searching for the Mixin ID **7000103767**
+
 [Watch this video on YouTube on how to buy MobileCoin on Mixin.](https://www.youtube.com/watch?v=pE6d7Aa_kKM)
 
-# What's the difference between MixSwap and an "exchange"?
+**Web Browser**
+To launch MixSwap, visit https://app.mixswap.exchange/ and connect your Mixin Wallet.
 
-MixSwap uses a 1inch-like aggregated trading model and does not provide depth itself. Exchanges usually take an order book model, which usually requires a market maker (AMM) to service the exchange and provide liquidity to traders.
+# What's the difference between MixSwap and an exchange?
+
+MixSwap does provide liquidity. MixSwap is an aggregator that connects to 4Swap and ExinSwap. Exchanges use an order book, which  requires a market maker (AMM) to service the exchange and provide liquidity to traders. Decentralized Exchanges like 4Swap and ExinSwap are automated market makers.
 
 # How do I buy and sell with MixSwap?
-Follow this guide step by step. If you already own Bitcoin or Ethereum, skip to step 2.
+Follow this guide step by step.[Watch this video on YouTube on how to buy MobileCoin on Mixin.](https://www.youtube.com/watch?v=pE6d7Aa_kKM)
 
 ### ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/secure.svg)Step 1: Buy Bitcoin on a coin exchange
 
