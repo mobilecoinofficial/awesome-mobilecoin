@@ -4,7 +4,7 @@ description: "Buy, sell, borrow, and loan Mobilecoin and perpetual futures."
 category: "Exchanges"
 developer: "FTX"
 developerSite: "https://ftx.com"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0004_FTX/ftx.webp"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/ftx.webp"
 appStore: "https://ftx.com/apps"
 playStore: "https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio&hl=en_US&gl=US"
 ---
