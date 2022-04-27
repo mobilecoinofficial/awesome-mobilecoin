@@ -1,6 +1,6 @@
 ---
 title: "Add your app"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0999_Add_Your_App/add.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/add.png"
 description: "List your app right here."
 category: "Apps"
 signalBot: ""
