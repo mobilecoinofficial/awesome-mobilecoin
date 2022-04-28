@@ -1,7 +1,7 @@
 # Awesome Projects built using MobileCoin
 This repository is a list of awesome projects built on MobileCoin. 
 
-# How to add your app or company to the awesome directory
+# How to add your app or company to the directory
 
 Anyone can submit a description of an app, integration, project, or partnership to the directory. To add a project to the site, create a new subfolder in the awesome-mobilecoin/directory folder with a README.md that contains the following structure. You can also upload the app icon to this directory.
 
