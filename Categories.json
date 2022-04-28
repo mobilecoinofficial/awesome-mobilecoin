@@ -2,15 +2,19 @@
    "Instructions":"Use one of the Categories in this file when submitting an app.",
    "Categories":[
       "Messaging",
-      "Wallets",
-      "Bots",
+      "Wallet",
+      "Signal Bot",
       "Dev Tools",
-      "On/Off Ramps",
+      "On Ramp",
+      "Off Ramp",
       "Point of Sale",
       "Merchant Services",
-      "Art",
+      "Validator",
+      "Developer",
+      "Consulting",
+      "Artists",
       "Events",
-      "Community",
+      "Exchanges",
       "Trading"
    ]
 }
