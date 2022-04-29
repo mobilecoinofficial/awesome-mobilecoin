@@ -15,11 +15,11 @@ Your new Favorite App for Cryptocurrency Trading
 
 Try the new Binance.US app 2.0 with an improved user experience and cutting edge design.
 
-![](https://static.binance.us/static/images/us/common/btn_appstore_white.svg)(https://apps.apple.com/us/app/binanceus/id1492670702?ls=1)
+[![iOS](https://static.binance.us/static/images/us/common/btn_appstore_white.svg)](https://apps.apple.com/us/app/binanceus/id1492670702?ls=1)
 
-![](https://static.binance.us/static/images/us/common/btn_playstore_white.svg)(https://play.google.com/store/apps/details?id=com.binance.us)
+[![Android](https://static.binance.us/static/images/us/common/btn_playstore_white.svg)](https://play.google.com/store/apps/details?id=com.binance.us)
 
-![](https://static.binance.us/static/images/us/next/download_app/img_keyvisual-MASK.png)(https://www.binance.us/en/downloadApp)
+[![download](https://static.binance.us/static/images/us/next/download_app/img_keyvisual-MASK.png)](https://www.binance.us/en/downloadApp)
 
 Binance Labs supports MobileCoin's Mission
 ================================================
