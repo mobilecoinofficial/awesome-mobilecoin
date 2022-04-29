@@ -14,10 +14,8 @@ Your new Favorite App for Cryptocurrency Trading
 ================================================
 
 Try the new Binance.US app 2.0 with an improved user experience and cutting edge design.
-
-[iOS](https://apps.apple.com/us/app/binanceus/id1492670702?ls=1)
-
-[Android]](https://play.google.com/store/apps/details?id=com.binance.us)
+- [iOS](https://apps.apple.com/us/app/binanceus/id1492670702?ls=1)
+- [Android](https://play.google.com/store/apps/details?id=com.binance.us)
 
 Binance Labs supports MobileCoin's Mission
 ================================================
