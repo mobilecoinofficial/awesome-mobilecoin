@@ -8,7 +8,7 @@ icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/m
 appStore: "https://mobilecoin.com/beta"
 playStore: "https://mobilecoin.com/beta"
 ---
-How to get the MobileCoin app for your smartphone
+The Beta Mobile App is for Testing purposes only
 =================================================
 
 If you are trying to download the mobile app, follow these instructions using your mobile phone.
