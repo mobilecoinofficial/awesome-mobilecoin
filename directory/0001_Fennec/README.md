@@ -1,5 +1,5 @@
 ---
-title: "Fennec Wallet"
+title: "Fennec"
 description: "Swap Bitcoin and ETH for Mobilecoin."
 category: "Wallets"
 developer: "Pando.im"
