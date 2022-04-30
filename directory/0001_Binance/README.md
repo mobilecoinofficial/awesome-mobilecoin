@@ -1,6 +1,6 @@
 ---
 title: "Binance"
-description: "Buy and sell MobileCoin globally."
+description: "Buy and sell MobileCoin on the world's largest exchange."
 category: "Exchanges"
 developer: "Binance"
 developerSite: "https://binance.com"
