@@ -1,7 +1,7 @@
 ---
 title: "Mixin Messenger"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
-description: "Wallet and secure messenger based on the Signal Protocol, with support for most cryptocurrencies."
+description: "Mobile chat app with easy access to Decentralized Exchanges (DEXs)"
 category: "Messaging"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
 playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
