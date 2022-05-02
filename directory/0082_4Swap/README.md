@@ -2,7 +2,7 @@
 title: "4Swap"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0082_4Swap/logo.png"
 description: "Buy & sell MobileCoin with Mixin or Fennec"
-category: "Messaging, Bots, Exchanges"
+category: "Decentralized Exchange"
 appStore: "https://app.4swap.org/#/"
 developer: "Pando.im"
 developerSite: "https://pando.im/lake/"
