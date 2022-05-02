@@ -1,6 +1,6 @@
 ---
 title: "4Swap"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0082_4Swap/logo.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/4swap.png"
 description: "The easiest way to buy MobileCoin in the US, works with Mixin and Fennec wallets"
 category: "Decentralized Exchange"
 appStore: "https://app.4swap.org/#/"
