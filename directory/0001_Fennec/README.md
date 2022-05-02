@@ -1,6 +1,6 @@
 ---
 title: "Fennec"
-description: "The easiest way to buy MobileCoin with a web browser extension."
+description: "The easiest way to buy MobileCoin, Bitcoin, and other cryptocurrencies with a web browser."
 category: "Wallet"
 developer: "Pando.im"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Fennec/fennec.png"
