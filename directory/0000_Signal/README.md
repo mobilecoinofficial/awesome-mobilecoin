@@ -1,6 +1,6 @@
 ---
-title: "Signal Payments"
-description: "Send MobileCoin to over 100 million people with Signal Messenger."
+title: "Signal Messenger"
+description: "Send MobileCoin to over 100 million people with Signal Payments."
 category: "Messaging"
 developer: "Signal"
 developerSite: "https://signal.org"
