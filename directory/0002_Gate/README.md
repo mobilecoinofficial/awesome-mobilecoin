@@ -1,7 +1,7 @@
 ---
 title: "Gate.io"
 description: "Buy, Sell and Trade over 1300 Cryptocurrencies including MobileCoin."
-category: "Centralized Exchange"
+category: "Centralized"
 developer: "Gate.io"
 developerSite: "https://gate.io"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/gate.webp"
