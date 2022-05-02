@@ -1,7 +1,7 @@
 ---
 title: "Signal Messenger"
 description: "Send MobileCoin to over 100 million people with Signal Payments."
-category: "Messaging"
+category: "Wallet"
 developer: "Signal"
 developerSite: "https://signal.org"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0000_Signal/signal.png"
