@@ -1,5 +1,5 @@
 ---
-title: "Fennec"
+title: "Fennec Wallet"
 description: "The easiest way to buy MobileCoin, Bitcoin, and other cryptocurrencies with a web browser."
 category: "Wallet"
 developer: "Pando.im"
