@@ -1,7 +1,7 @@
 ---
 title: "Fennec"
-description: "Swap Bitcoin and ETH for Mobilecoin."
-category: "Wallets"
+description: "The easiest way to buy MobileCoin with a web browser extension."
+category: "Wallet"
 developer: "Pando.im"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Fennec/fennec.png"
 gitHub: "https://github.com/fox-one/fennec"
