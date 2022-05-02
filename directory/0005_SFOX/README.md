@@ -4,7 +4,7 @@ description: "Trading platform for sophisticated investors"
 category: "Exchange"
 developer: "sFOX"
 developerSite: "https://sfox.com"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/iamges/sfox.png"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/sfox.png"
 ---
 
 sFOX is a full-service crypto prime dealer for institutional investors. The company unites liquidity from over 30 exchanges and OTC desks in one easy-to-manage platform. Founded in 2014, sFOX is backed by Social Capital, Digital Currency Group, Khosla Ventures, Tribe Capital, DHVC, Haystack, Sequoia, Blockchain Capital, Y Combinator, and executives from PayPal and Airbnb. 
