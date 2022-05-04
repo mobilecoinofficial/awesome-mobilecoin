@@ -1,7 +1,7 @@
 ---
 title: "MobileCoin Radio"
 description: "a place for artists to share their creations"
-category: "Radio"
+category: "Artists"
 developer: "MobileCoin"
 developerSite: "https:/mobilecoinradio.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0080_MobileCoin_Radio/radio.svg"
