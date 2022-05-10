@@ -1,7 +1,7 @@
 ---
 title: "Mixin Messenger"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
-description: "Mobile chat app with easy access to Decentralized Exchanges (DEXs)"
+description: "The easiest way to buy MobileCoin with a mobile app - or desktop app."
 category: "Wallet"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
 playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
