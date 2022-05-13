@@ -1,7 +1,7 @@
 ---
 title: "Mixin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
-description: "Mixin is a crypto wallet and messenger with slick apps for iOS, Android, and Mac and desktop apps using the Signal protocol and."
+description: "An open source crypto wallet with support for every device and most currencies."
 category: "Wallet"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
 playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
