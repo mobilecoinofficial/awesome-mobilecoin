@@ -1,7 +1,7 @@
 ---
-title: "Mixin Messenger"
+title: "Mixin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
-description: "The easiest way to buy MobileCoin with a mobile app - or desktop app."
+description: "Mixin is a crypto wallet and messenger with slick apps for iOS, Android, and Mac and desktop apps using the Signal protocol and."
 category: "Wallet"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
 playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
@@ -9,32 +9,51 @@ developer: "Mixin"
 developerSite: "https://mixin.one/messenger"
 gitHub: "https://github.com/MixinNetwork"
 ---
-## Mixin is a crypto wallet and messenger
-Mixin is a crypto wallet for MobileCoin, Bitcoin, Ethereum, Dogecoin, Cosmos, Akash, Sia, Filecoin, Solana, Polkadot, and more. Mixin also supports messaging your contacts with end-to-end encryption built on the Signal protocol.
+## An open source cryptocurrency wallet, which supports almost all popular cryptocurrencies.
+=========================================================================================
+
+-   ![Bitcoin](https://images.mixin.one/HvYGJsV5TGeZ-X9Ek3FEQohQZ3fE9LBEBGcOcn4c4BNHovP4fW4YB97Dg5LcXoQ1hUjMEgjbl1DPlKg1TW7kK6XP=s32)
+-   ![Ethereum](https://images.mixin.one/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s32)
+-   ![EOS](https://images.mixin.one/a5dtG-IAg2IO0Zm4HxqJoQjfz-5nf1HWZ0teCyOnReMd3pmB8oEdSAXWvFHt2AJkJj5YgfyceTACjGmXnI-VyRo=s32)
+-   ![Ripple](https://images.mixin.one/zgBBzgQ8x2XZbNdRhibMlVLyG0x1PEr8ENepLODl_mBDIXJJSCZNoaa2jHCc4VpJ59hPgUVnL6W24v1utEVqb0A=s32)
+-   ![Siacoin](https://images.mixin.one/K1qFRFwAn2aJ-SEM4Tya7y_HBelBZsL5J1WEdZX4S3-APXHExcsZUYdyQAMRhgebcto3CF_OLoImx8U9-4-M7C4=s32)
+-   ![Dash](https://images.mixin.one/ReOP8DBeVc4VO5myA0zuURtNBJJGJCL4KB3Gj5bvBOeP4LW_ZZrwl7CesWhE3aSTm931sOGz69DcGIUmdb6RkF4=s32)
+-   ![Dogecoin](https://images.mixin.one/D1quwKOIaKBNIx6EL1znNS09vRnh00FP7BWwOJUtI_9CFlohJLuyG6CjcU9x4YXu9LSzGs0QqRSG54wcfsOtTMU=s32)
+-   ![Zcash](https://images.mixin.one/9QWOYgcD0H7q1cH6PaSM08FQ549epnEzqIQ2EgEfK2s82jhsIu1wDKmsR7rkPFwjIYKOILteq7mW1hIaXcy4DhI=s32)
+
+Features
+--------
+
+-   Login with mobile phone number, never lose your account
+-   Secured by 6 digit [TIP](https://github.com/MixinNetwork/tip)
+-   All assets are stored in PoS-BFT-DAG distributed network
+-   Enormous bots to extend the chat and wallet capabilities
+-   Send cryptocurrencies directly to phone contacts
+-   Send encrypted messages with Signal protocol
+
+[![App Store](https://mixin.one/assets/f01b400ae7ec19c1b2ca45eafd84ebef.png)](https://apps.apple.com/app/mixin/id1322324266)
+
+[![Google Play](https://mixin.one/assets/6c62ce88b371bf9295cb62a28b7e7ee3.png)](https://play.google.com/store/apps/details?id=one.mixin.messenger)
+
+![messenger](https://mixin.one/assets/d9bb777b00f4210e107dd3580fe5bf1a.png)
+
+![messenger](https://mixin.one/assets/35328f7a3d91c60fb0266e4ab5abcc63.png)
+
+Mixin Messenger Desktop
+=======================
+
+macOS 10.9 and higher or Windows 64-bit, Linux download from [here. ](https://github.com/MixinNetwork/desktop-app#download)Mixin Messenger must be installed on your phone.
+
+[![App Store](https://mixin.one/assets/2da903aaa1ca763e60f0029a2eb2fc92.png)](https://newbie.zeromesh.net/mixin-mac.dmg)
+
+[![App Store](https://mixin.one/assets/b6eff8b033af7cbb802454e544d332cc.png)](https://newbie.zeromesh.net/mixin-windows.exe)
 
 [Watch this video on YouTube on how to buy MobileCoin on Mixin.](https://www.youtube.com/watch?v=pE6d7Aa_kKM)
-
-Mixin Messenger uses the **Mixin Network** a free and fast peer-to-peer digital asset trading network. It uses sidechains, Layer2 Off-Chain and other technologies, uses PoS + Asynchronous BFT consensus, and uses DAG to store transaction records. Finally, it achieves second-level confirmation, zero fees and enhanced transactions features of privacy.
-
-**Mixin Messenger** is an open source end-to-end encrypted chat software and integrates a multi-chain wallet based on Mixin Network.
-
-How to download and update Mixin Messenger:
-
--   Google Play: <https://play.google.com/store/apps/details?id=one.mixin.messenger>
-
--   App Store: <https://apps.apple.com/us/app/mixin-messenger/id1322324266>
-## Features
-* Login with mobile phone number, never lose your account
-* Secured by 6 digit TIP
-* All assets are stored in PoS-BFT-DAG distributed network
-* Enormous bots to extend the chat and wallet capabilities
-* Send cryptocurrencies directly to phone contacts
-* Send encrypted messages with Signal protocol
 
 ## Send and Receive
 First, you need to get your wallet address in your Mixin app. Open the Mixin app then choose the square icon on the bottom left corner to access your wallet. Once you are in your wallet, tap on the line that says BTC (Bitcoin). This will take you to the Bitcoin send and receive page. Tap on RECEIVE. A popup will appear; tap GOT IT. Then tap COPY to copy your wallet address.
 
-## Connect the MixSWap Exchange
+## Connect the MixSwap Exchange
 Tap on the search icon in the top right corner (the magnifying glass). Enter the number 7000103767 and tap SEARCH. This will locate a bot called MixSwap. You will know you have the right app because you will see a purple bird logo. Tap on the bot and add it to your app. Once you have the MixSwap bot installed, you can access the bot from your home screen in the app. 
 
 ## Swap Bitcoin for MobileCoin
