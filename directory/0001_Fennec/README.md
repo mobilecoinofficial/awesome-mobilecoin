@@ -1,6 +1,6 @@
 ---
 title: "Fennec Wallet"
-description: "The easiest way to buy MobileCoin in your browser, just like MetaMask."
+description: "A browser extension with a crypto wallet and built-in swap, like MetaMask for MobileCoin."
 category: "Wallet"
 developer: "Pando.im"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Fennec/fennec.png"
