@@ -11,23 +11,10 @@ gitHub: "https://github.com/MixinNetwork"
 ---
 ## An open source cryptocurrency wallet, which supports almost all popular cryptocurrencies.
 =========================================================================================
-
--   ![Bitcoin](https://images.mixin.one/HvYGJsV5TGeZ-X9Ek3FEQohQZ3fE9LBEBGcOcn4c4BNHovP4fW4YB97Dg5LcXoQ1hUjMEgjbl1DPlKg1TW7kK6XP=s32)
--   ![Ethereum](https://images.mixin.one/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s32)
--   ![EOS](https://images.mixin.one/a5dtG-IAg2IO0Zm4HxqJoQjfz-5nf1HWZ0teCyOnReMd3pmB8oEdSAXWvFHt2AJkJj5YgfyceTACjGmXnI-VyRo=s32)
--   ![Ripple](https://images.mixin.one/zgBBzgQ8x2XZbNdRhibMlVLyG0x1PEr8ENepLODl_mBDIXJJSCZNoaa2jHCc4VpJ59hPgUVnL6W24v1utEVqb0A=s32)
--   ![Siacoin](https://images.mixin.one/K1qFRFwAn2aJ-SEM4Tya7y_HBelBZsL5J1WEdZX4S3-APXHExcsZUYdyQAMRhgebcto3CF_OLoImx8U9-4-M7C4=s32)
--   ![Dash](https://images.mixin.one/ReOP8DBeVc4VO5myA0zuURtNBJJGJCL4KB3Gj5bvBOeP4LW_ZZrwl7CesWhE3aSTm931sOGz69DcGIUmdb6RkF4=s32)
--   ![Dogecoin](https://images.mixin.one/D1quwKOIaKBNIx6EL1znNS09vRnh00FP7BWwOJUtI_9CFlohJLuyG6CjcU9x4YXu9LSzGs0QqRSG54wcfsOtTMU=s32)
--   ![Zcash](https://images.mixin.one/9QWOYgcD0H7q1cH6PaSM08FQ549epnEzqIQ2EgEfK2s82jhsIu1wDKmsR7rkPFwjIYKOILteq7mW1hIaXcy4DhI=s32)
-
-Features
---------
-
 -   Login with mobile phone number, never lose your account
--   Secured by 6 digit [TIP](https://github.com/MixinNetwork/tip)
--   All assets are stored in PoS-BFT-DAG distributed network
--   Enormous bots to extend the chat and wallet capabilities
+-   Secured by 6 digit [PIN](https://github.com/MixinNetwork/tip)
+-   All assets are stored in PoS-BFT-DAG distributed network (not MobileCoin)
+-   DEXs are built-in as bots and connect to the wallet 
 -   Send cryptocurrencies directly to phone contacts
 -   Send encrypted messages with Signal protocol
 
