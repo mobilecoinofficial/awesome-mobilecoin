@@ -1,6 +1,6 @@
 ---
-title: "Signal Messenger"
-description: "Send MobileCoin to over 100 million people with Signal Payments."
+title: "Signal"
+description: "MobileCoin is integrated into Signal, the world's most trusted messenger with over 100 million users."
 category: "Wallet"
 developer: "Signal"
 developerSite: "https://signal.org"
