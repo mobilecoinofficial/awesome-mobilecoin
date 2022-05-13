@@ -1,6 +1,6 @@
 ---
 title: "MixSwap"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0003_MixSwap/icon.svg"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/icon.svg"
 description: "Buy MobileCoin with the MixSwap DEX Aggregator."
 category: "Decentralized"
 appStore: "mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2"
@@ -11,7 +11,7 @@ gitHub: "https://docs.pando.im/developer/lake/overview/"
 support: "https://support.mixswap.exchange/en/quickstart"
 ---
 
-![MixSwap](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0003_MixSwap/logo.svg)
+![MixSwap](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/logo.svg)
           
 **MixSwap** is an exchange aggregator that uses the Mixin Network and combines liquidity providers including 4swap and MixSwap.
 
