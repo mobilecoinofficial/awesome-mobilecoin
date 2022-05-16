@@ -1,7 +1,7 @@
 ---
-title: "Transak"
+title: "BuyMobileCoin.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/transak.png"
-description: "Buy and sell MobileCoin with Transak."
+description: "Buy and sell MobileCoin outside the US."
 category: "On/Off Ramp"
 developer: "Transak"
 developerSite: "http://transak.com"
