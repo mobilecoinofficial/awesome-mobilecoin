@@ -1,7 +1,7 @@
 ---
 title: "Binance"
 description: "Buy and sell MobileCoin on the world's largest exchange."
-category: "Centralized"
+category: "CEXs, Trading"
 developer: "Binance"
 developerSite: "https://binance.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/binance.webp"
