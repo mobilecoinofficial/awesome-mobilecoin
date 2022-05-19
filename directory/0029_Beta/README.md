@@ -1,7 +1,7 @@
 ---
 title: "Mobile App Beta"
 description: "Send and receive MobileCoin using QR codes for Android and iOS."
-category: "Wallet"
+category: "Wallets"
 developer: "MobileCoin"
 developerSite: "https://mobilecoin.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0029_Beta/ios.svg"
