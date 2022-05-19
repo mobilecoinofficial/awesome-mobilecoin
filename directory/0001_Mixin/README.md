@@ -2,7 +2,7 @@
 title: "Mixin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
 description: "An open source crypto wallet with support for every device and most currencies."
-category: "Wallet"
+category: "Wallets, DEXs, Chat Apps"
 appStore: "https://apps.apple.com/app/mixin/id1322324266"
 playStore: "https://play.google.com/store/apps/details?id=one.mixin.messenger"
 developer: "Mixin"
