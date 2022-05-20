@@ -4,7 +4,7 @@ description: "Wordpress plugin for payments."
 category: "Merchant Services, Dev Tools"
 developer: "WooCommerce"
 developerSite: "https://github.com/mobilecoinofficial/mobilecoin-payments-plugin"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0050_WooCommerce/woo.svg"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/woo.svg"
 github: "https://github.com/mobilecoinofficial/mobilecoin-payments-plugin"
 ---
 
