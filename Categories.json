@@ -1,18 +1,12 @@
 {
    "Instructions":"Use one of the Categories in this file when submitting an app.",
    "Categories":[
-      "Chat Apps",
       "Wallets",
-      "Signal Bots",
-      "Dev Tools",
-      "Merchant Services",
-      "Validators",
-      "Artists",
-      "Events",
-      "Prime Dealers",
-      "Trading",
       "Swaps",
-      "DEXs",
-      "CEXs"
+      "Trading",
+      "Signal Bots",
+      "Validators",
+      "Dev Tools",
+      "Artists"
    ]
 }
