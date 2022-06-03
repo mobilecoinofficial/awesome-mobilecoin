@@ -2,7 +2,7 @@
 title: "4Swap"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/4swap.png"
 description: "The easiest way to buy MobileCoin in the US, works with Mixin and Fennec wallets"
-category: "Decentralized Exchanges, Swaps"
+category: "Trading in the US, Decentralized Exchanges"
 appStore: "https://app.4swap.org/#/"
 developer: "Pando.im"
 developerSite: "https://pando.im/lake/"
