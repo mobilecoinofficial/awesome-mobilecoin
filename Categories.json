@@ -2,12 +2,12 @@
    "Instructions":"Use one of the Categories in this file when submitting an app.",
    "Categories":[
       "Wallets",
-      "Decentralized Exchanges",
       "Trading in the US",
       "Non-US Exchanges",
       "Signal Bots",
       "Validators",
       "Dev Tools",
-      "Artists"
+      "Artists",
+      "Decentralized Exchanges"
    ]
 }
