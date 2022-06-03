@@ -1,7 +1,7 @@
 ---
 title: "sFOX"
 description: "Trading platform for sophisticated investors"
-category: "Trading, Prime Dealers"
+category: "Prime Dealers, Trading"
 developer: "sFOX"
 developerSite: "https://sfox.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/sfox.png"
