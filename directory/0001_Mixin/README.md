@@ -1,5 +1,5 @@
 ---
-title: "Mixin Messenger"
+title: "Mixin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Mixin/mixin.png"
 description: "An open source crypto wallet with support for every device and most currencies."
 category: "Wallets, Decentralized Exchanges, Chat Apps"
