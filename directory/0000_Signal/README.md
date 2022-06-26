@@ -1,5 +1,5 @@
 ---
-title: "Signal"
+title: "Signal Messenger"
 description: "MobileCoin is integrated into Signal, the world's most trusted messenger with over 100 million users."
 category: "Instant Messaging Apps"
 developer: "Signal"
