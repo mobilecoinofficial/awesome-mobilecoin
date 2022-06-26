@@ -1,7 +1,7 @@
 ---
 title: "WooCommerce"
 description: "Wordpress plugin for payments."
-category: "Merchant Services, Dev Tools"
+category: "Developer Tools"
 developer: "WooCommerce"
 developerSite: "https://github.com/mobilecoinofficial/mobilecoin-payments-plugin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/woo.svg"
