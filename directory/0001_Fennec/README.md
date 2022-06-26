@@ -1,18 +1,29 @@
 ---
-title: "Fennec"
-description: "A browser extension with a crypto wallet and built-in DEX, like MetaMask for MobileCoin."
+title: "Fennec Browser Extension"
+description: "MetaMask-like Wallet for Chrome and Firefox with a built-in DEX."
 category: "Desktop Wallets"
-developer: "Pando.im"
+developer: "Fennec"
+developerSite: "https://pando.im/fennec"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Fennec/fennec.png"
 gitHub: "https://github.com/fox-one/fennec"
-support: "https://pando.im/fennec"
 ---
 Fennec is the wallet that let's you buy MobileCoin in your web browser. Fennec is an opensource crypto wallet that works right in your web browser. The wallet connects to the Mixin Network and manages your Mixin wallet without downloading the Mixin app. Fennec works with 4swap to swap 45 token pairs with zero gas fees.
 
 ### Install the browser extension from the Chrome webstore or Firefox add-ons 🛒
 
 -   [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/fox_fennec/)
--   [Chrome Store](https://chrome.google.com/webstore/detail/fennec/eincngenkhohbbfpkohipekcmnkfamjp)
+-   [Chrome Extension](https://chrome.google.com/webstore/detail/fennec/eincngenkhohbbfpkohipekcmnkfamjp)
+
+# Features:
+
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec1.png)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec2.png)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec3.png)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec4.png)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec5.png)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec6.png)
+
+# How to Use Fennec:
 
 ### ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/secure.svg)Step 2:  Install the Fennec crypto wallet on your browser
 
