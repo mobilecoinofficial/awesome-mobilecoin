@@ -3,7 +3,7 @@ title: "Buy MobileCoin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/world.webp"
 description: "Easiest way to buy and sell MobileCoin outside the US."
 category: "Buy MobileCoin outside the U.S."
-developer: "Buy MobileCoin"
+developer: "Buy MOB International"
 developerSite: "http://buymobilecoin.com"
 ---
 ![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/applepay.jpg)
