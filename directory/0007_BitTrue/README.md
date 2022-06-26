@@ -3,7 +3,7 @@ title: "Bitrue"
 description: "Buy, invest, & borrow digital assets all in one place."
 category: "Buy MobileCoin outside the U.S."
 developer: "BitTrue"
-developerSite: "https://www.coinex.com/info/MOB"
+developerSite: "https://www.bitrue.com/trade/mob_usdt"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/bitrue.webp"
 ---
 
