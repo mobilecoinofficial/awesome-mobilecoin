@@ -1,6 +1,6 @@
 ---
-title: "Fennec Browser Extension"
-description: "MetaMask-like Wallet for Chrome and Firefox with a built-in DEX."
+title: "Fennec Wallet"
+description: "MetaMask-like browser extension for Chrome and Firefox with a built-in DEX."
 category: "Desktop Wallets"
 developer: "Fennec"
 developerSite: "https://pando.im/fennec"
