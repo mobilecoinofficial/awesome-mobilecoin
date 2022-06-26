@@ -1,6 +1,6 @@
 ---
 title: "Buy MobileCoin"
-icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0030_Desktop_Wallet/osx2.svg"
+icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/usa.webp"
 description: "A fast and simple way to buy MobileCoin in the U.S."
 category: "Buy MobileCoin in the U.S."
 developer: "Buy MobileCoin"
