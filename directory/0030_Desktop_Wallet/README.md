@@ -1,5 +1,5 @@
 ---
-title: "MobileCoin Desktop Wallet"
+title: "MobileCoin Wallet for Desktop"
 description: "Support for Mac OS X, Ubuntu, RedHat, Linux"
 category: "Desktop Wallets"
 developer: "MobileCoin"
