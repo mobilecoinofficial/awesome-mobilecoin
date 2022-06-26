@@ -16,12 +16,12 @@ Fennec is the wallet that let's you buy MobileCoin in your web browser. Fennec i
 
 # Features:
 
-![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec1.png)
-![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec2.png)
-![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec3.png)
-![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec4.png)
-![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec5.png)
-![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec6.png)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec1.jpeg)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec2.jpeg)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec3.jpeg)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec4.jpeg)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec5.jpeg)
+![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/fennec6.jpeg)
 
 # How to Use Fennec:
 
