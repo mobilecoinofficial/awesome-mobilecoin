@@ -5,9 +5,11 @@ category: "Desktop Wallets"
 developer: "Fennec"
 developerSite: "https://pando.im/fennec"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Fennec/fennec.png"
-gitHub: "https://github.com/fox-one/fennec"
+gitHub: "https://github.com/fox-one/fennec/blob/main/README.md"
 ---
 Fennec is the wallet that let's you buy MobileCoin in your web browser. Fennec is an opensource crypto wallet that works right in your web browser. The wallet connects to the Mixin Network and manages your Mixin wallet without downloading the Mixin app. Fennec works with 4swap to swap 45 token pairs with zero gas fees.
+
+Manage your MobileCoin account without downloading an app. Fennec is an opensource crypto wallet in your browser. You can receive, send or swap cryptocurrencies. The swapping function is supported by [4swap](https://mobilecoin.com/ecosystem/4swap). You can visit https://app.4swap.org, tap "Connect wallet" button to use Fennec in 4swap.
 
 ### Install the browser extension from the Chrome webstore or Firefox add-ons 🛒
 
