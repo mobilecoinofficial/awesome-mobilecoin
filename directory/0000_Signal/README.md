@@ -8,11 +8,19 @@ icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/m
 appStore: "https://apps.apple.com/us/app/signal-private-messenger/id874139669"
 playStore: "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
 ---
-# Send MobileCoin through Signal 
 
-MobileCoin can be sent between any two people with a mobile phone, anywhere in the world. Our partnership with the Signal Messenger app makes MobileCoin available to more than 100 million users across the globe. 
+## MobileCoin partners with Signal
 
-MobileCoin payments sent through Signal are fast, encrypted, and environmentally friendly. Your money arrives on time, every time. State-of-the-art end-to-end encryption keeps your conversations secure. 
+Our partnership with the Signal Messenger app makes MobileCoin available to more than 100 million users globally. MobileCoin is the only cryptocurrency supported by Signal app.
+
+## **Get the Signal App**
+Install latest Signal app on your phone.  
+
+<a href="https://signal.org/install/" style="display: inline-flex;">
+ <img src="https://developers.mobilecoin.com/native_images/appstore.svg" width="135px" style="margin:10px;" /><img src="https://developers.mobilecoin.com/native_images/playstore.png" width="135px" style="margin:10px;" />
+ </a>
+
+# Features:
 
 ### End-to-end Encryption
 Signal can't read your messages or view your MobileCoin transactions, and no one else can either. Information about the transaction is encrypted: sender, receiver, amount transferred, and message are all unknown to Signal.
@@ -23,16 +31,9 @@ Securely recover your wallet if you lose your phone, using only your Signal PIN 
 ### Free and Open Source
 Signal is an independent nonprofit not tied to any tech company. Signal's software will always be free and open source and can never be bought out.
 
-#### **Get the Signal App**
-Make sure you have the latest Signal app on your phone.  
-
-<a href="https://signal.org/install/" style="display: inline-flex;">
- <img src="https://developers.mobilecoin.com/native_images/appstore.svg" width="135px" style="margin:10px;" /><img src="https://developers.mobilecoin.com/native_images/playstore.png" width="135px" style="margin:10px;" />
- </a>
-
 * * * * *
 
-Activate Payments
+## Activate Signal Payments
 -----------------
 Activating payments will let you send and receive MobileCoin.
 1. Open the Signal app on your phone.
@@ -43,3 +44,4 @@ Activating payments will let you send and receive MobileCoin.
 6. Accept and Agree to the Terms
 
 ![](https://images.squarespace-cdn.com/content/v1/624b284acc6f4b3917c9d40d/7f1400e3-a06d-47b3-b6ce-bd2a5045ab62/gif.gif?format=750w)
+
