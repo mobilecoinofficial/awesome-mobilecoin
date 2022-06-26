@@ -1,7 +1,7 @@
 ---
 title: "Fennec"
 description: "A browser extension with a crypto wallet and built-in DEX, like MetaMask for MobileCoin."
-category: "Wallets, Decentralized Exchanges"
+category: "Desktop Wallets"
 developer: "Pando.im"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0001_Fennec/fennec.png"
 gitHub: "https://github.com/fox-one/fennec"
