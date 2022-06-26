@@ -2,7 +2,7 @@
 title: "MixSwap"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/icon.svg"
 description: "Buy MobileCoin with the MixSwap DEX Aggregator."
-category: "Trading in the US, Decentralized Exchanges"
+category: "Buy MobileCoin in the U.S."
 appStore: "mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2"
 playStore: "mixin://users/6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2"
 developer: "Ocean.one"
