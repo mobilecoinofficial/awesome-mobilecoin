@@ -7,7 +7,7 @@ developer: "Buy MobileCoin"
 developerSite: "http://buy.mobilecoin.com"
 ---
 ![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/applepay.jpg)
-MobileCoin has solved the important problem of allowing mainstream people and businesses to access MobileCoin. We use the highest standards of global regulatory compliance and licensing.  
+Buy MobileCoin allows people and businesses to buy MobileCoin in the United States. We use the highest standards of global regulatory compliance and licensing.  
 
 You can purchase Mobilecoin on [buy.mobilecoin.com](http://buy.mobilecoin.com). The website accepts payments by debit card or bank transfer. The process takes users only a few minutes and is processed near instantly. The fees are low and transparent.
 
