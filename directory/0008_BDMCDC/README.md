@@ -3,7 +3,7 @@ title: "Buy MobileCoin"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/usa.webp"
 description: "A fast and simple way to buy MobileCoin in the U.S."
 category: "Buy MobileCoin in the U.S."
-developer: "Buy MobileCoin USA"
+developer: "Buy MOB USA"
 developerSite: "http://buy.mobilecoin.com"
 ---
 Buy MobileCoin allows people and businesses to buy MobileCoin in the United States. We use the highest standards of global regulatory compliance and licensing.  
