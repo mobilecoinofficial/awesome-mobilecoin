@@ -1,7 +1,7 @@
 ---
 title: "sFOX"
 description: "Trading platform for sophisticated investors"
-category: "Trading in the US"
+category: "Trade MOB with Digital Asset Platforms"
 developer: "sFOX"
 developerSite: "https://sfox.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/sfox.png"
