@@ -1,7 +1,7 @@
 ---
 title: "FTX"
 description: "Buy, sell, borrow, and loan Mobilecoin and perpetual futures."
-category: "Buy MobileCoin outside the U.S."
+category: "Trading outside the U.S."
 developer: "FTX"
 developerSite: "https://ftx.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/ftx.webp"
