@@ -2,7 +2,7 @@
 title: "Buy MOB U.S.A."
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/usa.webp"
 description: "A fast and simple way to buy MobileCoin in the U.S."
-category: "Buy MobileCoin in the U.S."
+category: "Trading in the U.S."
 developer: "buy.mobilecoin.com"
 developerSite: "http://buy.mobilecoin.com"
 ---
