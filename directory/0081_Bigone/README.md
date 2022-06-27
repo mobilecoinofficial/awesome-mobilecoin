@@ -1,8 +1,8 @@
 ---
 title: "BigONE"
 description: "One-Stop Digital Asset Service"
-category: "Trading"
-developer: "Buy MobileCoin outside the U.S."
+category: "Trading outside the U.S."
+developer: "Big.one"
 developerSite: "https://big.one/"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0081_Bigone/bigone.png"
 appStore: "https://apps.apple.com/us/app/bigone/id1485385044"
