@@ -2,7 +2,7 @@
 title: "Hotline"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/master/directory/0012_Hotline/hotline.png"
 description: "Subscription and announcements"
-category: "Arts & Entertainment"
+category: "Developer Tools"
 signalBot: "https://signal.me/#p/+12185009001"
 developer: "Forest"
 developerSite: "https://github.com/mobilecoinofficial/forest/"
