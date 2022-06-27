@@ -1,8 +1,8 @@
 ---
 title: "Bitfinex"
 description: "Digital asset trading"
-category: "Buy MobileCoin outside the U.S."
-developer: "Bitfinex"
+category: "Trading outside the U.S."
+developer: "Bitfinex.com"
 developerSite: "https://www.bitfinex.com/"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0089_Bitfinex/bitfinex.png"
 appStore: "https://apps.apple.com/us/app/bitfinex/id1436383182?ls=1"
