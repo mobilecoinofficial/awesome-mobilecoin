@@ -1,7 +1,7 @@
 ---
 title: "Gate.io"
 description: "Buy, Sell and Trade over 1300 Cryptocurrencies including MobileCoin."
-category: "Buy MobileCoin outside the U.S."
+category: "Trading outside the U.S."
 developer: "Gate.io"
 developerSite: "https://gate.io"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/gate.webp"
