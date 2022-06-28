@@ -1,7 +1,7 @@
 ---
 title: "CoinEx"
 description: "Crypto trading in 200+ countries and regions"
-category: "Trading outside the U.S."
+category: "Trading in the U.S."
 developer: "CoinEx"
 developerSite: "https://www.coinex.com/info/MOB"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/coinex.webp"
