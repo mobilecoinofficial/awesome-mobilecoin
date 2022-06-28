@@ -1,9 +1,9 @@
 ---
-title: "Buy MOB International"
+title: "BuyMobileCoin.com"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/world.webp"
 description: "Easiest way to buy and sell MobileCoin outside the US."
 category: "Trading outside the U.S."
-developer: "buymobilecoin.com"
+developer: "BuyMobileCoin.com"
 developerSite: "http://buymobilecoin.com"
 ---
 ![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/applepay.jpg)
