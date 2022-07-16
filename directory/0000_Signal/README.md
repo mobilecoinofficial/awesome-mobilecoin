@@ -1,6 +1,6 @@
 ---
 title: "Signal Messenger"
-description: "MobileCoin is integrated into Signal, the world's most trusted messenger with over 100 million users."
+description: "Our partnership with the Signal Messenger app makes MobileCoin available to millions of users globally.."
 category: "Mobile Wallets"
 developer: "Signal"
 developerSite: "https://signal.org"
@@ -10,12 +10,12 @@ playStore: "https://play.google.com/store/apps/details?id=org.thoughtcrime.secur
 ---
 ## MobileCoin partners with Signal
 
-Our partnership with the Signal Messenger app makes MobileCoin available to more than 100 million users globally. MobileCoin is the only cryptocurrency supported by Signal app.
+Our partnership with the Signal Messenger app makes MobileCoin available to millions of users globally. MobileCoin is the only cryptocurrency supported by Signal app.
 
 ![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/signalscreenshot.webp)
 
 ## **Get the Signal App**
-Install latest Signal app on your phone.  
+Install latest Signal.  
 
 <a href="https://signal.org/install/" style="display: inline-flex;">
  <img src="https://developers.mobilecoin.com/native_images/appstore.svg" width="135px" style="margin:10px;" /><img src="https://developers.mobilecoin.com/native_images/playstore.png" width="135px" style="margin:10px;" />
@@ -27,10 +27,10 @@ Install latest Signal app on your phone.
 Signal can't read your messages or view your MobileCoin transactions, and no one else can either. Information about the transaction is encrypted: sender, receiver, amount transferred, and message are all unknown to Signal.
 
 ### Easy Wallet Recovery
-Securely recover your wallet if you lose your phone, using only your Signal PIN and phone number. Also, securely recover your 24 word phrase if you lose it - without trusting a provider with your private keys.
+Securely recover your wallet if you lose your phone, using only your Signal PIN and phone number. Also, securely recover your 24 word phrase if you lose it - without sharing your private keys.
 
 ### Free and Open Source
-Signal is an independent nonprofit not tied to any tech company. Signal's software will always be free and open source and can never be bought out.
+Signal is an independent nonprofit supported by donations. Learn more about Signal and how you can support them at signal.org.
 
 * * * * *
 
