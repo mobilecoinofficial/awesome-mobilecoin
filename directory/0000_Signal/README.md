@@ -15,7 +15,7 @@ Our partnership with the Signal Messenger app makes MobileCoin available to mill
 ![](https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/images/signalscreenshot.webp)
 
 ## **Get the Signal App**
-Install latest Signal.  
+Install the latest version of Signal.
 
 <a href="https://signal.org/install/" style="display: inline-flex;">
  <img src="https://developers.mobilecoin.com/native_images/appstore.svg" width="135px" style="margin:10px;" /><img src="https://developers.mobilecoin.com/native_images/playstore.png" width="135px" style="margin:10px;" />
