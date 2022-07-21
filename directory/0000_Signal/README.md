@@ -1,6 +1,6 @@
 ---
-title: "Signal Messenger"
-description: "Our partnership with the Signal Messenger app makes MobileCoin available to millions of users globally.."
+title: "Signal "
+description: "Our partnership with Signal makes MobileCoin available to millions of users globally."
 category: "Mobile Wallets"
 developer: "Signal"
 developerSite: "https://signal.org"
