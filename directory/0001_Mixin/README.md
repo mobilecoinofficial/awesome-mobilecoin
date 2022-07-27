@@ -31,11 +31,41 @@ Mixin Messenger Desktop
 
 macOS 10.9 and higher or Windows 64-bit, Linux download from [here. ](https://github.com/MixinNetwork/desktop-app#download)Mixin Messenger must be installed on your phone.
 
-[![App Store](https://mixin.one/assets/2da903aaa1ca763e60f0029a2eb2fc92.png)](https://newbie.zeromesh.net/mixin-mac.dmg)
+[![Mac](https://mixin.one/assets/2da903aaa1ca763e60f0029a2eb2fc92.png)](https://newbie.zeromesh.net/mixin-mac.dmg)
 
-[![App Store](https://mixin.one/assets/b6eff8b033af7cbb802454e544d332cc.png)](https://newbie.zeromesh.net/mixin-windows.exe)
+[![Windows](https://mixin.one/assets/b6eff8b033af7cbb802454e544d332cc.png)](https://newbie.zeromesh.net/mixin-windows.exe)
 
 [Watch this video on YouTube on how to buy MobileCoin on Mixin.](https://www.youtube.com/watch?v=pE6d7Aa_kKM)
+### 1\. Go to personal page
+
+![__MOB-01.jpg](https://mixinmessenger.zendesk.com/hc/article_attachments/4405380122388/__MOB-01.jpg)
+
+### 2\. Find the "Add contact" button
+
+![__MOB-02.jpg](https://mixinmessenger.zendesk.com/hc/article_attachments/4405373493524/__MOB-02.jpg)
+
+### 3\. Search Bot's Mixin ID.
+
+There're many different bots that provide trading services in Mixin, we use 4swap 7000103537 as an example. You can use any of the following bots to trade crypto in Mixin:
+- 4Swap Mixin ID 7000103537
+- MixSwap Mixin ID 7000103767
+- ExinONE Mixin ID 7000101276
+- ExinSwap Mixin ID 7000102352
+- Mixcoin Mixin ID 7000101542
+
+![__MOB-03.jpg](https://mixinmessenger.zendesk.com/hc/article_attachments/4405373494036/__MOB-03.jpg)
+
+### 4\. Open the trading bot's page
+
+![__MOB-04.jpg](https://mixinmessenger.zendesk.com/hc/article_attachments/4405373493780/__MOB-04.jpg)
+
+### 5\. Go to the swap page
+
+![__MOB-05.jpg](https://mixinmessenger.zendesk.com/hc/article_attachments/4405373494292/__MOB-05.jpg)
+
+### 6\. Find the trading pair and swap
+
+![__MOB-06.jpg](https://mixinmessenger.zendesk.com/hc/article_attachments/4405373494420/__MOB-06.jpg)
 
 ## Send and Receive
 First, you need to get your wallet address in your Mixin app. Open the Mixin app then choose the square icon on the bottom left corner to access your wallet. Once you are in your wallet, tap on the line that says BTC (Bitcoin). This will take you to the Bitcoin send and receive page. Tap on RECEIVE. A popup will appear; tap GOT IT. Then tap COPY to copy your wallet address.
@@ -111,8 +141,6 @@ Once you are inside the bot, click the icon in the bottom right that looks like 
 This will open the exchange screen. Enter the amount of Bitcoin that you want to trade for MOB. The only tricky part here is that they do not tell you how much Bitcoin you have in your wallet, so you may need to toggle back to your wallet to see how much you have. Once you enter the Bitcoin amount, the corresponding MOB amount should auto-populate. Make sure that the receive category says MOB and click EXCHANGE.
 
 ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2021/10/image14-1-473x1024.png)
-
-You now own MobileCoin! Please be aware that anytime you transfer cryptocurrencies, it may be a taxable event, so please consult with your tax advisor.
 
 ### ![](https://mobilecoinstg.wpengine.com/wp-content/uploads/2022/02/secure.svg)Step 5: Move your MOB into your MobileCoin desktop wallet
 
