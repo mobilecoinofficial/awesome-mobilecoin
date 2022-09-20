@@ -17,20 +17,3 @@ Anytime you buy, sell, send, or receive MobileCoin, you can utilize the block ex
 
 ## Where is MobileCoin's block explorer?
 Currently, the MobileCoin Foundation's [Block Explorer](https://block-explorer.mobilecoin.foundation/) is an open source block explorer providing detailed blockchain data across the MobileCoin Mainnet. This block explorer also supports Tor and is tracking-free.
-
-# Why does it look like the Matrix?
-Our block explorer is in it's first version. We are funding an effort to build a new block explorer, and we are openly inviting all software developers in to apply and work on this project. 
-
-## Where can I apply?
-You can apply to build the block explorer on our [Gitcoin bounty page](https://gitcoin.co/issue/mobilecoinofficial/developer-grants/1/100028771).
-
-At a high level, the goal is to create a new block explorer which integration partners can run off of their full-service wallet, using the application of their private keys to query the block explorer for relevant data about transactions
-
-Right now, the block explorer runs off of the [mobilecoind](https://github.com/mobilecoinfoundation/mobilecoin/tree/master/mobilecoind) wallet, but we are deprecating this, so partners do not want to run an entirely separate wallet to run the block explorer.
-
-The asks are to reimplement the block explorer so that:
-
-1.  It uses full-service as the backend and interfaces to the [Full Service JSONRPC API](https://developers.mobilecoin.com/guides/full-service-api)
-2.  It supports new features that are necessary for integration partners (and we can get into this more specifically)
-3.  It has a more modern and intuitive interface than the current implementation.
-
