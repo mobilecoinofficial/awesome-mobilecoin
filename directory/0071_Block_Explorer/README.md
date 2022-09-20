@@ -3,7 +3,7 @@ title: "Block Explorer"
 icon: "https://raw.githubusercontent.com/mobilecoinofficial/awesome-mobilecoin/main/directory/0071_Block_Explorer/blockexplorer.png"
 description: "Transaction search engine"
 category: "Developer Tools"
-developer: "MobileCoin"
+developer: "View Block Explorer"
 developerSite: "https://block-explorer.mobilecoin.foundation/"
 gitHub: "https://github.com/mobilecoinfoundation/mobilecoin/tree/2f90154a445c769594dfad881463a2d4a003d7d6/mobilecoind/clients/python/blockchain_explorer"
 ---
