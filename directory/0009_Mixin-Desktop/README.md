@@ -12,11 +12,11 @@ gitHub: "https://github.com/MixinNetwork"
 Note: [Mixin Messenger Mobile](https://mobilecoin.com/ecosystem/mixin) must be installed on your phone beofre you can use the dektop apps.
 
 # Download for Mac, Windows, and Linux:
-Mixin Messenger for Desktop is compatible with MacOS 10.9 and higher, Windows 64-bit, and Linux [(download here)](https://github.com/MixinNetwork/desktop-app#download).
+Mixin Messenger for Desktop is compatible with MacOS 10.14 and higher, Windows 64-bit, and Linux [(download here)](https://github.com/MixinNetwork/flutter-app#download).
 
-[![App Store](https://mixin.one/assets/2da903aaa1ca763e60f0029a2eb2fc92.png)](https://newbie.zeromesh.net/mixin-mac.dmg)
+[![App Store](https://mixin.one/assets/2da903aaa1ca763e60f0029a2eb2fc92.png)](https://apps.apple.com/app/mixin-messenger/id1571128582)
 
-[![App Store](https://mixin.one/assets/b6eff8b033af7cbb802454e544d332cc.png)](https://newbie.zeromesh.net/mixin-windows.exe)
+[![App Store](https://mixin.one/assets/b6eff8b033af7cbb802454e544d332cc.png)](https://www.microsoft.com/en-us/p/mixin-desktop/9nq6hf99b8nj)
 
 # Features:
 
