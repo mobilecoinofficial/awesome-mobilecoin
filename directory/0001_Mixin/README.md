@@ -29,11 +29,11 @@ gitHub: "https://github.com/MixinNetwork"
 Mixin Messenger Desktop
 =======================
 
-macOS 10.9 and higher or Windows 64-bit, Linux download from [here. ](https://github.com/MixinNetwork/desktop-app#download)Mixin Messenger must be installed on your phone.
+macOS 10.14 and higher or Windows 64-bit, Linux download from [here. ](https://github.com/MixinNetwork/flutter-app#download)Mixin Messenger must be installed on your phone.
 
-[![Mac](https://mixin.one/assets/2da903aaa1ca763e60f0029a2eb2fc92.png)](https://newbie.zeromesh.net/mixin-mac.dmg)
+[![Mac](https://mixin.one/assets/2da903aaa1ca763e60f0029a2eb2fc92.png)](https://apps.apple.com/app/mixin-messenger/id1571128582)
 
-[![Windows](https://mixin.one/assets/b6eff8b033af7cbb802454e544d332cc.png)](https://newbie.zeromesh.net/mixin-windows.exe)
+[![Windows](https://mixin.one/assets/b6eff8b033af7cbb802454e544d332cc.png)](https://www.microsoft.com/en-us/p/mixin-desktop/9nq6hf99b8nj)
 
 [Watch this video on YouTube on how to buy MobileCoin on Mixin.](https://www.youtube.com/watch?v=pE6d7Aa_kKM)
 ### 1\. Go to personal page
